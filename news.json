@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-10-27T18:04:11.958062+00:00",
+  "updated_at": "2026-10-27T22:14:26.787630+00:00",
   "items": [
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Когда подешевеет ипотека и стоит ли откладывать покупку жилья: мнение эксперта",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qU09DMlpYTmpJaGYwX09nb0I1ckt6cEdrZnZwRHB2cGJLWENSelBlaVEtUXFiLV9qa2JtQjhJQW5NdzFmdG80RzgzRzFQaUFzVUFCb1B6UQ?oc=5",
-      "published": "Tue, 27 Oct 2026 16:14:18 GMT",
-      "source": "Банки.ру",
-      "description": "Когда подешевеет ипотека и стоит ли откладывать покупку жилья: мнение эксперта Банки.ру"
-    },
     {
       "category": "Девелоперы и продажи",
       "title": "Необратимый цикл",
@@ -16,6 +8,14 @@
       "published": "Tue, 27 Oct 2026 10:39:11 GMT",
       "source": "Эксперт",
       "description": "Необратимый цикл Эксперт"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Снижение ключевой ставки откладывается: ЦБ готовится к длительной паузе",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemJEY2tTR3VwU3BjZUFjLVEwOE5sd3hEdlRlblFqeVY0Z0ZKVWljZ1BKTkpMYjNwU3NEY2paSzd4RFVwTjRMdE5xMnV5VEpLUkZsUFplVlQwRlNfVnluVTFfN0N4UWVIRFdxdGl2SnEwbWtzNTROVUlfUTh3TWotMGN4bWVzMUF4Y3cwVElmV19qTG5FSWVOWjllXzE3U3ZDdF9RVXJnZFlzY2E1Xzd0ZHlZU3FzRHYwdXJ3Sg?oc=5",
+      "published": "Tue, 27 Oct 2026 05:47:32 GMT",
+      "source": "TKS.RU",
+      "description": "Снижение ключевой ставки откладывается: ЦБ готовится к длительной паузе TKS.RU"
     },
     {
       "category": "Девелоперы и продажи",
@@ -34,6 +34,14 @@
       "description": "Семейная ипотека по-новому: кому в Ишиме стало проще купить квартиру / Общество Vishime.ru"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "Когда подешевеет ипотека и стоит ли откладывать покупку жилья: мнение эксперта",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qU09DMlpYTmpJaGYwX09nb0I1ckt6cEdrZnZwRHB2cGJLWENSelBlaVEtUXFiLV9qa2JtQjhJQW5NdzFmdG80RzgzRzFQaUFzVUFCb1B6UQ?oc=5",
+      "published": "Mon, 26 Oct 2026 09:43:20 GMT",
+      "source": "Банки.ру",
+      "description": "Когда подешевеет ипотека и стоит ли откладывать покупку жилья: мнение эксперта Банки.ру"
+    },
+    {
       "category": "Экономика России",
       "title": "Центробанк удержал ставку: борьба с инфляцией в России продолжается",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vM2pQamU2OUJPMmRBM3hUR0hEa01lNjRUYlBWVTBiRjFXVEUtbXl3YXlYRGJCZDd1RThnRkZRM1RGa3I4RVpoTFlXQjFmZnVrNGNYdThnSWdVY2EwM295ZU1FNGp5X3J0U1VnMzd5RG9ELVdHME1jMzNvaw?oc=5",
@@ -48,6 +56,14 @@
       "published": "Mon, 26 Oct 2026 05:00:00 GMT",
       "source": "БИЗНЕС Online",
       "description": "«У людей уже нет возможности покупать»: перекройка «семейки» озолотила застройщиков на 18 миллиардов БИЗНЕС Online"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Ключевая ставка на паузе. Новый бюджет, прогнозы по инфляции и росту экономики — Видео от РБК Инвестиции",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uQXVHMkFDblVFVGdVVDE3UVR3OXJVM1ZyU1E2UjlQc2FsQzB4TXFhYnMyU3ZqSENaLXZXS1JNeDhCMjhfN25NbEpHaHVmT21sTVdV?oc=5",
+      "published": "Sun, 25 Oct 2026 09:09:41 GMT",
+      "source": "ВКонтакте",
+      "description": "Ключевая ставка на паузе. Новый бюджет, прогнозы по инфляции и росту экономики — Видео от РБК Инвестиции ВКонтакте"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -75,6 +91,38 @@
     },
     {
       "category": "Экономика России",
+      "title": "ЦБ второй раз подряд сохранил ключевую ставку 14% и признал, что инфляция ускоряется",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzVUZ3Z4OHpiWXF1aGZsaUFTVlpEWmRuYVplT3BRaVFZWWhXWDR5dUtpRm5aVFlLb3FHVU5mY2YtOWxXYmRjeGFnZEFiNHBOQzZxd3NaVmNxcHE1UGRlb3RWZFZGWDV6VGhfaGJLcFc0M0F0Y2tmTUx5Qmp5ZEFfS0d2WWlqS0Y0TmNmN1Q5RzV2TG9xNDRuREg0S0plaXlRNkg3Z1hhVlNybzNlWkFQVjRFNU1DTjZFRFJxRm1fT0g?oc=5",
+      "published": "Fri, 23 Oct 2026 13:16:46 GMT",
+      "source": "Faktologia",
+      "description": "ЦБ второй раз подряд сохранил ключевую ставку 14% и признал, что инфляция ускоряется Faktologia"
+    },
+    {
+      "category": "Экономика России",
+      "title": "ЦБ сохранил ставку на уровне 14% на фоне ускорения инфляции — Новости Челябинска и Челябинской области",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDBwOUdYX0g5aGNQQzNtTWVTX0xNRGkxNlN0QzV5MWwzbUlESmFKSXVJXzZuZ1VqU2VtbEtDTHdRMkh1LU5KZ3ZteUVlSkQtb2ZRUmEtSXlMNWwxZHI5WkVxS0ZhS1JrZnpORlJoR3BRUVVhT2xxQXJyRTBjWGxNZTdOdVhLZUVjVVR0ckhtMVpvUEp4OU1VZkZLQkpFRmdqVnJFTzdrLWRHSDQ?oc=5",
+      "published": "Fri, 23 Oct 2026 11:08:58 GMT",
+      "source": "Курс Дела",
+      "description": "ЦБ сохранил ставку на уровне 14% на фоне ускорения инфляции — Новости Челябинска и Челябинской области Курс Дела"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Итоги недели: ЦБ сохранил ключевую ставку на 14%, а ипотека у банков продолжает дорожать",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamJLUlFyT2NWNGVDcVFycTk0UW5pWk5JLU4xWHVHTFoxckFoRHZSWm9wOXRKVU9ZVjF5TEpkT3lGSFNQdm5yU2RjYkcxV3FURjZHUTZWX0ZlLWdsOU5RT0ZzaE1mWTRDTGhVdmoteXMzUkVkbXVWWDRTZFIzbVc2Nk9nOEdQRV8xVHJhUDUyWnFoV3FHUi1ZZkRvQWFsaFNxd28ta0VoX0pqRlc4empVaWR5Z0NSbkFMR0hUS1FzN0pxRVpaOGtv?oc=5",
+      "published": "Fri, 23 Oct 2026 10:55:00 GMT",
+      "source": "Урбан Медиа",
+      "description": "Итоги недели: ЦБ сохранил ключевую ставку на 14%, а ипотека у банков продолжает дорожать Урбан Медиа"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10aEo1TWpxQmtFMkR3RDI2dDNVSi1QWnNabnFsOGVNdkJfSzkwaDQ4TEJsR3YyNEJMOUhwMlpwNFc4YkgxbDIzbEVWcjZVTEpfMlc4c2Fwb1dycFpaRm9lV3dVdXNhMEE?oc=5",
+      "published": "Fri, 23 Oct 2026 10:35:24 GMT",
+      "source": "Центральный Банк России",
+      "description": "Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых Центральный Банк России"
+    },
+    {
+      "category": "Экономика России",
       "title": "ЦБ второй раз подряд сохранил ставку 14%. Почему ее не стали снижать",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bFpUVENjRVdFb1gzMWtYb1dXS3VfS0Z4dG8zQUFSM1NHUXdROW9yVnV0azl2Yl96ZnNvbXRqc3JpTE1TWVhsZTQ2dzNBYnN0MEFmeXIzSQ?oc=5",
       "published": "Fri, 23 Oct 2026 10:33:07 GMT",
@@ -83,19 +131,11 @@
     },
     {
       "category": "Экономика России",
-      "title": "Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tZ05LRUwtemJtYnNPbHZ0ZEwyM2dSR1lFYUtHaHFISHpRY0xvYUR0VDFsLU8xakMtWnFwTTBUdUJ3QU1DNnc?oc=5",
+      "title": "Почему ЦБ не снизит ставку на заседании в пятницу | Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2gzS3otV1ZWOHBNSFhpUUw0U1dkUWVkVDQ2bGFocG01SHVNRllOUXpaTjRYVW5DX1NDc3VPXzdDYXRLdFd6TEUzckhlU1lKVE1sbHZiQzlWNmtaR19ZSXdpbGo5UkFqcXN2THBQdXpPaUE1aVFQcDZOZmxudWtDeG80V09KQUVlNFYwc0hoSVZDUmgyOHc?oc=5",
       "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых Центральный Банк России"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Инфляция в России",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XbXQ4Znh1V1JXSVJHRmpmRVdEQTV6Tmt6aEdjLWJ4d1R0Y0R0NVZxWWFfN0FhWmpBdUdaSEZUOTdxWU1JdVZUREJiX1pWd0lvQldVWWIzS3UteEsxLUpObmQ0SDZtUU5pc3Jv?oc=5",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "source": "Интерфакс",
-      "description": "Инфляция в России Интерфакс"
+      "source": "Эксперт",
+      "description": "Почему ЦБ не снизит ставку на заседании в пятницу | Эксперт Эксперт"
     },
     {
       "category": "Девелоперы и продажи",
@@ -104,6 +144,30 @@
       "published": "Thu, 22 Oct 2026 19:00:58 GMT",
       "source": "Банки.ру",
       "description": "Застройщики продают жилье дешевле, чем в рекламных объявлениях: названа причина Банки.ру"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Эксперт рассказал, что мешает ЦБ вернуться к снижению ключевой ставки",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRTENuS3J5V2hic2U3ZVNwSEF6b29YRjZoRWdvTnZ4c3BtU0RxRl9nZmFGcV9NeFkwSjFKTi1EMC1zV285dXVITzc0ZlRyUQ?oc=5",
+      "published": "Thu, 22 Oct 2026 04:12:00 GMT",
+      "source": "Клерк.ру",
+      "description": "Эксперт рассказал, что мешает ЦБ вернуться к снижению ключевой ставки Клерк.ру"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Центробанк замораживает ключевую ставку / Экономика",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44RXJ1SENFRnQ5NmtueHlLMGNodURpZHZUMDAtUWJyQjhKbnFFTGFiWVcwTkpiNFJxQXZIY0Nhd0xwX2NnbjRHQWJGNzRYQmJQTTc3MTFHeFRTUHpCMDM0bVY2YUp0OHha?oc=5",
+      "published": "Wed, 21 Oct 2026 17:11:39 GMT",
+      "source": "Независимая газета",
+      "description": "Центробанк замораживает ключевую ставку / Экономика Независимая газета"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Аналитики ухудшили прогноз по ключевой ставке до 2029 года",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KeTBVSGxBTTFlWWpVMWtkdjN2WEN5TlpkdXpISkRRem9GY19vOGlVLTZPZy1COG1QLVp6OE95TDgtQzNTSVJEMjZsTUZ1LXk2VlhIaDVTZw?oc=5",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "source": "Банки.ру",
+      "description": "Аналитики ухудшили прогноз по ключевой ставке до 2029 года Банки.ру"
     },
     {
       "category": "Ипотека и регулирование",
@@ -139,19 +203,19 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
-      "title": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5%",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGFiMkZxRkxJXzVkd29VYkpwY3NYV2JycVF3a0o3WlprU3VybGxSeUF5Y0VCSWpnWVRUcjVpRE0zQnB4V2VUNGs0X0RiU29pS1NZVER4SmVrSVdFMDNRNVdKWFY3b1B3eFNQcEFRX3Q5V1BRMTh5M1pXTW5qZ3hHSGFQdzZpZWhfSjZPZ2xTWjFKOVJ6MVpBa2x1WmFac2J6YzRwdTdzeEJmYWZic3BfZGpjSkg1MXFUbWZqZnVsMll5WUgyZ1Roekg3RF94YWF2bGc?oc=5",
-      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "source": "Строительство.RU",
-      "description": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5% Строительство.RU"
-    },
-    {
-      "category": "Девелоперы и продажи",
       "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в сентябре",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hT3FrcFRSQUVNNlMwWjlaVEE2NXdhQnBlNHFMdy1qcUVvVU12a0lJTVp3UXVGSGw0TGZxbDdpaDBCbzNmbGhHNnhEXzhTZXdWTGhvREZWYjVwYzIxSFVNM05nLVZjNzFCNjRWOVRlSTRLdw?oc=5",
       "published": "Wed, 30 Sep 2026 07:00:00 GMT",
       "source": "Новострой-М",
       "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в сентябре Новострой-М"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5%",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGFiMkZxRkxJXzVkd29VYkpwY3NYV2JycVF3a0o3WlprU3VybGxSeUF5Y0VCSWpnWVRUcjVpRE0zQnB4V2VUNGs0X0RiU29pS1NZVER4SmVrSVdFMDNRNVdKWFY3b1B3eFNQcEFRX3Q5V1BRMTh5M1pXTW5qZ3hHSGFQdzZpZWhfSjZPZ2xTWjFKOVJ6MVpBa2x1WmFac2J6YzRwdTdzeEJmYWZic3BfZGpjSkg1MXFUbWZqZnVsMll5WUgyZ1Roekg3RF94YWF2bGc?oc=5",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "Строительство.RU",
+      "description": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5% Строительство.RU"
     },
     {
       "category": "Девелоперы и продажи",
@@ -163,19 +227,11 @@
     },
     {
       "category": "Экономика России",
-      "title": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 11 сентября",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bUdSMWRORVplUkdQN19Wa3g5Q1VGRjRhNWd3QWJZNFBlVVQ1bUljTHVXSXIzYmtyOU9FNXlPWDJXYm9nX0ozYTJOY0JHbmpISXc?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 11 сентября Центральный Банк России"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSDFPaGtZZkVVMldLVW5pS1kwT05MYzlBUGdnV0xOM05SamhOMnpQelNXdl9ZbUxRQ0FjTmFIZ1RHbHhTWE92RW1OdEZ5bUxoUkc1TnpIZnA3b3h2X3preG1ZQ0VqNzNzdkE?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "Новострой-М",
-      "description": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации Новострой-М"
+      "title": "Банк России сохранил ключевую ставку на уровне 14%",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTnhyLUk3LXRUZVlMck55UzE2VVVvb3JScGQtWjVDMlM5U1U4RHVvRFU5d3NJSW55MmsyTUNLRVdKVkFkVk5ubjdQNGNSd1I3MHfSAUtBVV95cUxQZFN5SGRsYXh3VHdZME9TMF9lUGtMUUZMNFhILVVrT1ROVV9jSlp3SjExRXA3XzJJOEFDOGR5VElUTVBWam5QOFFTZlE?oc=5",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "source": "Интерфакс",
+      "description": "Банк России сохранил ключевую ставку на уровне 14% Интерфакс"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -202,12 +258,12 @@
       "description": "Что будет с ценами на новостройки после изменений Семейной ипотеки осенью – вырастут ли цены на квартиры из-за изменений в условиях ипотеки для семей с детьми Журнал Домклик"
     },
     {
-      "category": "Ипотека и регулирование",
-      "title": "Рассрочки на новостройки изменятся до неузнаваемости: что предлагают Минстрой и ЦБ и почему это ударит по покупателям",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PeXNKdmpfSk9RaTZrc0hfUVlabmlmZWRMdm0wWEtRY0g0WWRnMDdwZWtpQTRxVjlnREJMMkZIenBZTDNQS0xoQnFxTdIBUEFVX3lxTFBZWnJXM2l3QmpQdWpzcHUxVXVFa01sZV9sQmFMQ3FQVldGaGVFS3Q4LXIzNm1IeEJkeGlocTRJcml5Q2JQOGNWSHQxa2lObnBf?oc=5",
-      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-      "source": "Банки Юга.ру",
-      "description": "Рассрочки на новостройки изменятся до неузнаваемости: что предлагают Минстрой и ЦБ и почему это ударит по покупателям Банки Юга.ру"
+      "category": "Экономика России",
+      "title": "Почему в России выросла нейтральная процентная ставка и что это значит",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOE1WcGMtZ3c4bUhBNUxEZHE1YWZQS0phcnhzZHAyRGRJRWNGV2hrYUNsOXVFRnZ5NVRkR04xNjVncmtBVFduTWxNR0JDNXZxczM3UFJwMWMzTzhUU2QxSVZMV3htS3p2NlFyQWdFT3AyMXhNb09iT0J0WjJjUnJyLXN6bjhmSk5MNDBDU0FETGp1VEZDVWJRS2NRQ1hUOThuU1JZVWlMNEdMUXM?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "Forbes.ru",
+      "description": "Почему в России выросла нейтральная процентная ставка и что это значит Forbes.ru"
     },
     {
       "category": "Девелоперы и продажи",
@@ -218,52 +274,12 @@
       "description": "Как оформить квартиру в собственность в новостройке в 2026 году Журнал Домклик"
     },
     {
-      "category": "Ипотека и регулирование",
-      "title": "Застройщики станут предоставлять рассрочку по ДДУ с учетом спецтребований – проект Минстроя",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43a1JXSW95NHEwYW1kNW42Sm4xeTdDRVpMT1BYNk8zYVR4WDdyV3FCOUtBbEE3ODlrMFN3VUtPMWJYVW5RNVdEVmc0N2tlZ0FsQTFfQg?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Застройщики станут предоставлять рассрочку по ДДУ с учетом спецтребований – проект Минстроя Consultant.ru"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Рассрочка с защитой: Минстрой и ЦБ хотят сделать покупку квартиры без ипотеки безопасной",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UVZSSHUtdDNPNjktYk9VQXhIX0hkMGRTY0lYSDUtSkg5RWtJdEJnLW5xWXpPNW0wM2M2QVlOeEpESVJGSG1ZemZKaGdCakVkYVhKc044MmR6M2RMMVBtY1VIbGFwN2c?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "source": "Сибирское информационное агентство",
-      "description": "Рассрочка с защитой: Минстрой и ЦБ хотят сделать покупку квартиры без ипотеки безопасной Сибирское информационное агентство"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Долги есть, а дома нет. Нина Останина требует реальной защиты для жертв недобросовестных подрядчиков",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ST05LcDl6dXkwb0pEdFJrdmE0WXd3STB2NVZIdzBrZGxmVHh6N0ZHZUVQS2xpc3JJenp6a2xoQXRNSml0cG1NLUs0QjF1eno0ZnhlNGZFVnRmQTBoZDNV?oc=5",
-      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "source": "Официальный сайт КПРФ",
-      "description": "Долги есть, а дома нет. Нина Останина требует реальной защиты для жертв недобросовестных подрядчиков Официальный сайт КПРФ"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Минстрой о ситуации с жильем: Файзуллин рассказал про рост кредитов на вторичку и цены на недвижимость",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUdzRmxTUEFpdGl1SkZ0MWd6Zzc5MDNDYVU2Q2xLMWVRU0dFVW5CS2xqQW1lb2ZDVkZtb1lrdHdnVi1SM3pnY3VhV3BoNF83dHF0OTZ4SmoyTElmdzhvVU5acURKenlxWVhLZE11di1HRHJyUlhtMmdSdDRhMVdfa2dGZ3QyRi1FNWJ5bVhWcXY2MWFMSjlhOHlTV251SUk0d0JUTg?oc=5",
-      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "source": "Финансы Mail",
-      "description": "Минстрой о ситуации с жильем: Файзуллин рассказал про рост кредитов на вторичку и цены на недвижимость Финансы Mail"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 24 июля",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NTZqQ0ZfZzViemlGanlXMlNNd1hyNzdTUmRkeGcxVm9jRWZKYktGb2NCRVlKLXJZMEUwRzlzaUxyUzU5N2c3czgwSm14NTV5WUE?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 24 июля Центральный Банк России"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Комментарий к среднесрочному прогнозу Банка России",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zWGVyQnRVZlVXUWVBeGd4M0JJUk9xRUpPeE5XMU9iMFp6NFEtSnYyTUpRNGN2aWtTcWxKVEtxR01hREtnenhDWVdPQ014VWcyZkFCeE8zN1U1empQREVPSlhmcGg5WklEWnhneFA3c1V5WDA?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Комментарий к среднесрочному прогнозу Банка России Центральный Банк России"
+      "category": "Девелоперы и продажи",
+      "title": "Новостройки строятся быстрее, чем продаются | Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdFNIWmI0bXQ5OXRfb09vU3VFcW4tdTg5S3FLTUxBMVFieTQxWWJDZXNUeUduaFZpcjJ0cG4wZzB6YUxaVEo4b2lrcjk0c3Zsd2dEbFVoUHBoREs2SEI0NWQzQWp0T095RERoS0l4MkRRUQ?oc=5",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "source": "Эксперт",
+      "description": "Новостройки строятся быстрее, чем продаются | Эксперт Эксперт"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -274,14 +290,6 @@
       "description": "Застройщики увеличили запуск новых проектов, несмотря на сокращение строительства в Москве Московская перспектива"
     },
     {
-      "category": "Экономика России",
-      "title": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,00% годовых",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVFZ3WlgzMjdVTlpvOGxtdXVjTlc1dlRxM1hyVzhPMzR2aXFGbGo0SkNzTU5YLU5Jb19fSllnOGFFdUV5S0dlRFhuNVdubkNkYWozdHRFdEljNzRLVWRzd1NPT3BOczg?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,00% годовых Центральный Банк России"
-    },
-    {
       "category": "Мировая экономика",
       "title": "Последняя демографическая волна",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMHVOXzJJRFFBWXZWUnpud0duYng2OVFtY216RjJaSlhhdXJYaFRpS2dZYTFIWHF2OTBaNngtT3I4LXZwQTJOMm5vOFhUUE5BdC1KcWx1S1JYR2lLMm52WWlFSW5RbzNFRjRmN2FGMG53WnBkUmdDZXdxYWIwSVo5Zw?oc=5",
@@ -290,20 +298,12 @@
       "description": "Последняя демографическая волна Econs.online"
     },
     {
-      "category": "Экономика России",
-      "title": "Экономист Сергей Коныгин прогнозирует, что ЦБ не снизит ключевую ставку из-за ускорения инфляции | Эксперт",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EVlJGM3NBSGVwTGlOMmt3NlVaU2p2THV0YlI2Njh6Ykh4dkRJaWpMVWhGSUt4SkV3TXQxcGdPdzhRZl9kWDM5MWc1NmJacG1rc2VfM0toOXYwT1RDUEpj?oc=5",
-      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "source": "Эксперт",
-      "description": "Экономист Сергей Коныгин прогнозирует, что ЦБ не снизит ключевую ставку из-за ускорения инфляции | Эксперт Эксперт"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Опрошенные ЦБ РФ аналитики существенно увеличили прогноз по инфляции в 2026 г.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWFpJM3pRQ2hjVFoyM0Zaa2hKMi1TQ2JTd3NiSjJPTmVXZkhKVzBLbm5SUHBRQ0l5WXNQMm9rbzFhVTlyc3ZOQVU3X1dYY1BpMVHSAUtBVV95cUxPWlNlSUJrZXlDclB1QnRtdGNjREdnOTVid05zNWdzaS1ycG9jR2p2RGloLVZsWmNxQkFiNEszYXpYeW5DRlJjaFNUZTA?oc=5",
-      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "source": "Интерфакс",
-      "description": "Опрошенные ЦБ РФ аналитики существенно увеличили прогноз по инфляции в 2026 г. Интерфакс"
+      "category": "Ипотека и регулирование",
+      "title": "Изменения в Семейной ипотеке с 1 июля: новые ставки и правила для заемщиков",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0xDNVk2THdSQnY2a0tJR2ZPOURNQk9SWVU4anMyTXZ5QXdXX3N5c1pmNTBGMTZiejVvNVZETG16dG9HbUpYNmZLemRaTjNkc2VMaTUyejN2Wkc5cHdlMFRIelNUbGtkRXpqOUJ0T3lMdnRoRkdrRTRESF9Fa1Y0T0JlTlk1bXllS25WTjgtcThoWWhhUnZ4SXRPcGpwQzR3eFNyd3VQS0w5dw?oc=5",
+      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "source": "Полис 812",
+      "description": "Изменения в Семейной ипотеке с 1 июля: новые ставки и правила для заемщиков Полис 812"
     },
     {
       "category": "Мировая экономика",
@@ -315,35 +315,19 @@
     },
     {
       "category": "Ипотека и регулирование",
-      "title": "«Когда ЦБ снизит ставку, тогда и подрежут»: Хуснуллин и Силуанов перенесли «казнь» семейной ипотеки",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uRXVnUWEzRjZxSGNSSWhEbnhmMDZkNmdQdlJzZDlFWEY1VW9JdGRBNy0zLUp0MUVFaVU4R3dXOHBBTTJ4NEU2QVVuV0VpYWNoX2xYbkpUck7SAVNBVV95cUxNWTFISTdyZnk1Q0dTLWhVTmw1T0hGZkVvNDFyUTZBbUgxNkxpTjBja3FzLURHQl9za0tWTjlNbWZzTzhsUFhtSk1IVC00cEZTc0h1QQ?oc=5",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "source": "БИЗНЕС Online",
-      "description": "«Когда ЦБ снизит ставку, тогда и подрежут»: Хуснуллин и Силуанов перенесли «казнь» семейной ипотеки БИЗНЕС Online"
+      "title": "Ставку по «Семейной ипотеке» повысят до рыночного уровня: через 15 лет",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0k2VnVSZ05yZkd4S293S2FkSlZxNVk3Q0d6cXN1YmtjM1dzazF3VlhhazE5QlRsaUxBalZIMmprR0JjRkVySzl5andOQjhFbmphNl9MVU5PdFZCcjVuR3FYSjVlOWFZQ0NPOU9PSGU4dmZWbnRfVG1jMXU1T1doY2pxaEtIcVNUNTZQQ2dGWlhLU1Fp?oc=5",
+      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "source": "NSP.RU",
+      "description": "Ставку по «Семейной ипотеке» повысят до рыночного уровня: через 15 лет NSP.RU"
     },
     {
       "category": "Ипотека и регулирование",
-      "title": "Центробанк посчи­тал реальный разрыв цен между первич­ным и вторичным жильем",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mTW8wV0xkS1NJWnJHUGJQbm5vblZBS2hOdTZac3Bnb0F0N0pxWWJuNXB6SU1DaUxVa0N4SkxWTGs0ZzRT?oc=5",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "source": "Т—Ж",
-      "description": "Центробанк посчи­тал реальный разрыв цен между первич­ным и вторичным жильем Т—Ж"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Минстрой хочет забрать деньги граждан у банков — ЦБ говорит «нет»",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDlpcXR3ek1UVzJsRnFMVnozLWd6bTBoNjhfM253RHduSHM1YlhpcWZmUTgzY0hnYWQ3OE9lTG1sZWwtQUJ5RkwwQnA5SDdTNDhqVUtjd2M0YlZxdWJxMXRzZnpKRFc1RTVZQlFLM3BzUGp5YXlwSWtXQnpmbnlZTmhPLVFuRGZCTkN2VGNRZ3ZaWEU?oc=5",
-      "published": "Sat, 20 Jun 2026 11:30:23 GMT",
-      "source": "Новости Севастополя",
-      "description": "Минстрой хочет забрать деньги граждан у банков — ЦБ говорит «нет» Новости Севастополя"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,25% годовых",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbFE3bzF1b013R0p2TldyaDQ3c2JXa1hCcXpvVW9NMzhOMXI2ZEpOTUtROXRCcDMwTnREME04bjNlXzA5MFpxWi1tU0w3X1oyLV9ubGIxdzc4ellHMnU4UGN3RVliWW8?oc=5",
-      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,25% годовых Центральный Банк России"
+      "title": "Как может измениться Семейная ипотека с 1 июля",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LV2V0S2R6bnpQZ1JtdGNqOXRXWUV1c1k5TWFCTlYyRWZMX1ZwS21NcGtlZE0yeGhIM291WEtKd0xNUQ?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Frank Media",
+      "description": "Как может измениться Семейная ипотека с 1 июля Frank Media"
     },
     {
       "category": "Ипотека и регулирование",
@@ -370,28 +354,36 @@
       "description": "Минстрой анонсировал изменение правил семейной ипотеки с 1 июля Ведомости"
     },
     {
+      "category": "Ипотека и регулирование",
+      "title": "Минстрой допустил повышение ставки по семейной ипотеке до 12%",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43WEFYS3hGOUVmNWhvU3NHdV85VmVlRG4wUmtsVVQ1YkpNUmh2czA3X252Rzh0eVV3bkZnb19LTW5NdGxa?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "BFM.ru",
+      "description": "Минстрой допустил повышение ставки по семейной ипотеке до 12% BFM.ru"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Правительство пересматривает условия «Семейной ипотеки» с 1 июля",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXh3VTZ2RUxMWjJNVGJLYkR3bWpuUHItbW50OC1RNFJ6M1JxMEpDeFNvRk9Wcnppam1JUFNsa21NSGwzWXpjcFlMUHo4ZTJFamZVaG8wU2I2cTZoZUZ2LTcwYlJ6cXI4MkFDOVQ3SmZ1TE5TMXN6X3VQZ0ZRSVRjakVQSU5LY2hjbm1zVU9NMNIBlAFBVV95cUxOYm5RSEprdFBwc3FoR2dIU2VXNlFKYzV6RXNyNDY2b2hqZmc1elM4empqbFZuTU9PYU5RUlBXUmp3UTZLUjNpZll4Yk5PNU5lanFTNmFzQXhUaWRYZlRFTXhEQ0tQdE9Pc3VoY0VBYTFvY0hJaGEtN012UkVFWUo4Vm9OMDNFMFp3UmZVRGpib2J4d1I2?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "Журнал Домклик",
+      "description": "Правительство пересматривает условия «Семейной ипотеки» с 1 июля Журнал Домклик"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "В Госдуме анонсировали увеличение максимальной суммы кредита по семейной ипотеке",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96dlJFTVB4SXpBbEY1cGRRbTRzSXhGbFJnS1ZjbUNjQ0FRZUFWUlNUcWEwY243aHNQMm83enZXdGVzYzU3LUNvZW8xSDFFSDBkbmZvWkdZQQ?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "Банки.ру",
+      "description": "В Госдуме анонсировали увеличение максимальной суммы кредита по семейной ипотеке Банки.ру"
+    },
+    {
       "category": "Недвижимость Москвы и МО",
       "title": "Застройщики не могут распродать почти треть нового жилья",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1JkcVE3dHdFTUIzRlVoWlpLazdpTXZJM3NYTmVvVzU0T250Q0FibmVzZWxCS3FCcGZ1bjRnTUxIMUIwa1Z0ak41YUVSLTRIM2p3TXpuWG5BSUozSzdZSmN0cTVPeXFoVDFROVZTLXJ6VzVlbXZnSFZhSnIyeVdUOXUwZkNRcUxFS2laV2RWU1ItMHpPQ1E?oc=5",
       "published": "Mon, 15 Jun 2026 07:00:00 GMT",
       "source": "Московская перспектива",
       "description": "Застройщики не могут распродать почти треть нового жилья Московская перспектива"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Семьи с одним ребенком рискуют потерять выгодные условия по «Семейной ипотеке» с 1 июля",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXhiLVg4SHlhU3kyTWMyWVh2YkNRbGxFRFViOV9lQ2xpdTNhVGRpcjhRaEEtSnNCQTkyelFROUJaaHMtS1lxYmdQd0MxTWgzM3RnMUpycWc4eEtSSnd6bmRWUXZrLUNqdHhYejRENnU0dE9rUEVWejduUnoycDduMTM0ZER5blZHZDBiVHhlVlF4Z1NTclcteGVxQllrTHRHUkhPb3JCeTFLSnJVczR6dlgyUkZJNkFjbk5yUzRB?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "source": "Izhlife",
-      "description": "Семьи с одним ребенком рискуют потерять выгодные условия по «Семейной ипотеке» с 1 июля Izhlife"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Стройка столкнется с кризисом при сохранении размера ключевой ставки",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjVtZmx5LTE2clFvZ0hPTUNUeXgtMnk3QTd6bGNXOVpIT09rRnJQSlBFNW5oMUtCTVJaeHlzYnQ0c1NxSGJUVnRsMGtqc3VNeTRLdW9Lak9xZDdFeC0tZTZhSWc4VFRpT01oRUt2LUp3dUtRbUpsb3pCWkYxbzhYek5SLUJBYVhIZndTakFMYXhwVUVKaHhvZ1ZKWG9PWDdnTE1V?oc=5",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "source": "Московская перспектива",
-      "description": "Стройка столкнется с кризисом при сохранении размера ключевой ставки Московская перспектива"
     },
     {
       "category": "Мировая экономика",
@@ -402,12 +394,12 @@
       "description": "ООН прогнозирует замедление темпов роста мировой экономики в 2026 году UN News"
     },
     {
-      "category": "Экономика России",
-      "title": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQ3ZZZG9ZaFRYdUZsOEVGT2hWNjZpSnRsZElhSUxEaGdzdkdWcklVVjFfUWRja1VOeWJiS0lhUWJ3N2N0bTVDYjFrLW1WbFlwSjU2QkhJMTNHRXc?oc=5",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "source": "Банки.ру",
-      "description": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают Банки.ру"
+      "category": "Мировая экономика",
+      "title": "Парадокс успеха: почему сырьевые картели потерпели крах",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc19lT1FOZXM1VWE1ZGtjWTR3WVB2U2tvZ0Q3VDgxYXN3ZDlSLVJmY211QXhpVkNDT29CeEI4QV8zQV9FRUhieHd3X1BwX3hPZE9lbjFtUk9mbkRtbTRQdUhDdV8tMnpaa1dxZXp5eUoybDJOa3FiazhObVNUa1FtazlSNmtTMS13M0dQU1c5dzdiNzlmanZFdkZfZmNUQQ?oc=5",
+      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "source": "Econs.online",
+      "description": "Парадокс успеха: почему сырьевые картели потерпели крах Econs.online"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -416,6 +408,14 @@
       "published": "Mon, 13 Apr 2026 07:00:00 GMT",
       "source": "Т—Ж",
       "description": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются Т—Ж"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Марат Хуснуллин допустил повышение лимита по семейной ипотеке в некоторых регионах",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUG40clotUmJfeTJURTFwTnJkUlJtaFJDaG0tRHVwSDM3STVaTy16MlVpZDU3djJFak9mc2ZuYVo5dmhtbTF5bUZRY0d1VUFMeFZFV0JDX2s2Z2pMQzNZVGhjQkFYQTRDWGh4eWF5bUs5VS1OcTdpdkhmQnA1OU9fdzlQTE4zX2ROYzNPWURiZVN0SC1aVHRkUDZPWGV1WTBoSzlZVVlnTEI5UGhuUklv?oc=5",
+      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "source": "Эксперт",
+      "description": "Марат Хуснуллин допустил повышение лимита по семейной ипотеке в некоторых регионах Эксперт"
     },
     {
       "category": "Мировая экономика",
@@ -427,27 +427,11 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
-      "title": "ЖК Пригород Лесное Москва, пгт Мисайлово, улица Современников, 8 от застройщика Самолет: 🏢 цены, отзывы, фото, планировки квартир, ход строительства, акции",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sdTIxbUpMai1NbS1ZSEpWVHg1NmtzZlY4Njh0ekgwUWZmQUdmQWc3Sndody1CN0dnM1A2N2NGV1JBT3dhQ3BsYnBXcm93OW1YMExldTY3blkxdG9FWGFFYWdR?oc=5",
-      "published": "Wed, 18 Mar 2026 06:41:37 GMT",
-      "source": "Домклик",
-      "description": "ЖК Пригород Лесное Москва, пгт Мисайлово, улица Современников, 8 от застройщика Самолет: 🏢 цены, отзывы, фото, планировки квартир, ход строительства, акции Домклик"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
       "title": "Кто в Москве строит больше всего: 7 крупнейших застройщиков",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6a09jTk80cENOQXdnZnYyVzJ2RFdTOWphaXZKbXVwQTNkNno2eFdBRHZIUXo2bmFBYkZMUzJDN1QzOS1xbFlJQmV5QmZ2Q0x0eW9kY2x3?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
       "source": "Т—Ж",
       "description": "Кто в Москве строит больше всего: 7 крупнейших застройщиков Т—Ж"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "На рынок вернулась ипотека со ставкой 0,1% на новостройки",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQ2tLUjVGcFNydmk4OFRMdU9IR05BTGdValJ0TjUwWXgwdWswSHpVV21Da0N0Y0hZenJCZk5XRUp4V21iQmgteDhMamlNQ1pz?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "source": "СИБДОМ",
-      "description": "На рынок вернулась ипотека со ставкой 0,1% на новостройки СИБДОМ"
     },
     {
       "category": "Мировая экономика",
@@ -490,12 +474,28 @@
       "description": "Дедолларизация мировой экономики: в поисках нового равновесия Econs.online"
     },
     {
+      "category": "Ипотека и регулирование",
+      "title": "Минфин сообщил о новшествах в семейной ипотеке",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVThLUWNkYUxSREhCZkY2eUc5alcxV1Q1SDZPS2VTZWRudGQtTHdGQnBNanJndVk5UG9lSVRzNS1CRk1KdktJMzZoYUVvbWpTTHNseQ?oc=5",
+      "published": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "source": "consultant.ru",
+      "description": "Минфин сообщил о новшествах в семейной ипотеке consultant.ru"
+    },
+    {
       "category": "Недвижимость Москвы и МО",
       "title": "Затишье под занавес лета: в Подмосковье в августе стабилизировались цены и спрос на новостройки",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tOHZTSkQ4ZzdicVBIYXp3VlJ5LVJnQnVXNGpfLWtxLUFLb1JJM0l2MUlRUzBTNjl5dlNWcHZEV1dvVG12c25Scjh3dkFuel8wdU9tUmxJX0JSNTVBNU55eWVzRGRmVnpXQlJRY0FCaUZ1LVBx?oc=5",
       "published": "Thu, 18 Sep 2025 07:00:00 GMT",
       "source": "Новострой-М",
       "description": "Затишье под занавес лета: в Подмосковье в августе стабилизировались цены и спрос на новостройки Новострой-М"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Минстрой проработает меры поддержки по ипотеке для молодежи",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWlNYURfMlNkM2Y5MjQ5dWdxS282U3RiX2FYeEdVQ0t2dFFNY3ZCV3NONzZaTHpOOWljUnYzemFnR1dfWjM1MUxEQ2s2SGY0SXhSQ1dTMjZmWUNuYk9aUF9JUlFOV2V5U2lhX0dVQnZIaUJxLXB6MEtPb1dXMVp1LTRxR2todFhEQ24ydkNn?oc=5",
+      "published": "Thu, 04 Sep 2025 07:00:00 GMT",
+      "source": "Эксперт",
+      "description": "Минстрой проработает меры поддержки по ипотеке для молодежи Эксперт"
     },
     {
       "category": "Мировая экономика",
@@ -512,6 +512,14 @@
       "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "source": "Econs.online",
       "description": "Новый двигатель глобального финансового цикла Econs.online"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DbUNoTTN2cklNa0JIMzBmNkJnYlJVd1p6cFhBNUJiUkR4RUd4V3lCNHJkV0J6Q28tYlFiWFRJYXh6N1doMmpkMkl1N2hiaGpibHM5Qw?oc=5",
+      "published": "Wed, 16 Apr 2025 07:00:00 GMT",
+      "source": "consultant.ru",
+      "description": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ consultant.ru"
     },
     {
       "category": "Мировая экономика",
@@ -538,28 +546,20 @@
       "description": "ЖК Люберцы Москва, Люберцы, Объект от застройщика Самолет: 🏢 цены, отзывы, фото, планировки квартир, ход строительства, акции Домклик"
     },
     {
+      "category": "Недвижимость Москвы и МО",
+      "title": "ЖК Публицист",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXSHFaenhaNGpVLWVfRy0yWkFVMUtHT0RQZVlDdzNsdEJOUVVDbmtGTXBVLWwyVjFWeHZBWGVnaEtMUFQyWFVNUXdYNlRSb2pZQjRfOERGdGdPVHc0XzRlQkpR?oc=5",
+      "published": "Wed, 20 Nov 2024 10:45:26 GMT",
+      "source": "Домклик",
+      "description": "ЖК Публицист Домклик"
+    },
+    {
       "category": "Мировая экономика",
       "title": "Топ-10 фильмов о финансах и экономике",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclNSSDdDTXdsUG1vdnNpMVUxUWVjWXQ0WkdIcEV3S1BsV3ZJRGw5emtpakl6VVJzRjIySHFQWTJBeEhlOWFORlVRWXU0OHIxc2NjUERKYktDM3lIaGZERmFqZmE2ZVhFZFlyVmdibk1zOWFDUmk1QXpEb2hvaUhuVDZ0clRQamU5?oc=5",
       "published": "Fri, 05 May 2023 07:00:00 GMT",
       "source": "Econs.online",
       "description": "Топ-10 фильмов о финансах и экономике Econs.online"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Мировая экономика коронавируса: поиск оптимальных путей преодоления последствий кризиса",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNX0NzRTRrX1hlUnVvTXhYQVNrQkhwWmZlRHZibXczS1plbUNNWGVjLWN2RjlGWVFpTmN0dk5iVl9Kd2x0MU1DQVRfcGxKdzVEZ2dCRU5rbjJxaGdjZEJoMHBfXzdGOUQtdzRuV3F6UnpIT0pka3dDd0pPeGFJd1l4bktXY3V1SXBFTkxuV3B5bDBadDhSeUNVZFBxUGxXUVYtemdPMm9KN1Nna3FWeERuYTJmekc4OUxkOUctenY2RnZLZ05IdEk4cWVtRmhXZjZuN2VKalR4MnExU0Z0T3dGVDdkR2NxdWFBaUh0Y0ktUkNkOWNEb3BMT2I5WGR4ZlZSQk5fbnJnOURHcTZ1N3lLMXFLblRGYmotM3FNQTFPeC0xQzZjZkhudzNkZ1VnQXNFQm5nazF3?oc=5",
-      "published": "Wed, 15 Jul 2020 07:00:00 GMT",
-      "source": "Государственный университет управления ГУУ",
-      "description": "Мировая экономика коронавируса: поиск оптимальных путей преодоления последствий кризиса Государственный университет управления ГУУ"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Мировой финансовый рынок: три главных риска",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFhNX1UtYmNWa3hxTFFXN3BDNkV6ckdYd1dhZjVCT1dOMVdTaG1Sc19UaWpFc2FJZGsxUk53MWU2T3hOSzBjSlNESm1mR3hsa1REb1A3MjZzOXpBYm9kaDRWbFRDZmo1RnBRN1FKOWpOTXdXTXhIYXF4SHhZQVBaTzVDd3ZsZVdEbE84R0JHcw?oc=5",
-      "published": "Tue, 30 Jul 2019 07:00:00 GMT",
-      "source": "Econs.online",
-      "description": "Мировой финансовый рынок: три главных риска Econs.online"
     }
   ]
 }
