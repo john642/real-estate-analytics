@@ -1,15 +1,21 @@
 <!doctype html>
 <html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Аналитика | Новости и недвижимость</title>
-<style>
-:root{font-family:system-ui,Arial;background:#f4f6f8;color:#172333}body{margin:0}header{background:#13253c;color:white;padding:28px max(20px,calc((100vw - 1100px)/2))}main{max-width:1100px;margin:30px auto;padding:0 18px}h1{margin:0 0 8px}p{line-height:1.6}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}.card{background:white;border-radius:14px;padding:20px;box-shadow:0 3px 16px #162d4810}a{color:#1765b4}small{color:#5d6978}.tag{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:#536e8d}footer{padding:25px;text-align:center;color:#667}
-</style></head><body><header><h1>Аналитика событий и рынка недвижимости</h1><p>Мировые события · Экономика России · Новостройки Москвы и МО · Конкуренты</p></header>
-<main><div class="card"><h2>Панель мониторинга</h2><p>Первая версия портала. Ниже размещены ссылки на источники. Автоматическая загрузка новостей, аналитические выводы и Telegram-оповещения пока не подключены.</p><small>Статус: демонстрационная версия без автоматического обновления</small></div>
-<h2>Источники информации</h2><div class="grid">
-<section class="card"><div class="tag">Мировые события</div><h3>Reuters</h3><p>Международная экономика, политика, энергетика и рынки.</p><a href="https://www.reuters.com/world/" target="_blank" rel="noopener">Открыть Reuters →</a></section>
-<section class="card"><div class="tag">Экономика России</div><h3>РБК</h3><p>Макроэкономика, бизнес, банки и государственные решения.</p><a href="https://www.rbc.ru/" target="_blank" rel="noopener">Открыть РБК →</a></section>
-<section class="card"><div class="tag">Денежно-кредитная политика</div><h3>Банк России</h3><p>Ключевая ставка, инфляция, кредитование и ипотека.</p><a href="https://www.cbr.ru/" target="_blank" rel="noopener">Открыть ЦБ →</a></section>
-<section class="card"><div class="tag">Жилищный рынок</div><h3>ДОМ.РФ</h3><p>Официальная аналитика жилищного строительства и ипотечного рынка.</p><a href="https://дом.рф/" target="_blank" rel="noopener">Открыть ДОМ.РФ →</a></section>
-<section class="card"><div class="tag">Девелопмент</div><h3>ЕРЗ.РФ</h3><p>Новости строительства, девелоперов и новых проектов.</p><a href="https://erzrf.ru/" target="_blank" rel="noopener">Открыть ЕРЗ →</a></section>
-<section class="card"><div class="tag">Мониторинг конкурентов</div><h3>Пульс Продаж Новостроек</h3><p>Сервис для анализа предложения и цен. Полнота данных требует проверки.</p><a href="https://pulsprodaj.ru/" target="_blank" rel="noopener">Открыть сервис →</a></section>
-</div><h2>Что подключим дальше</h2><div class="card"><p>Автоматическое получение новостей из доступных лент, фильтрация событий, утренний дайджест и сигналы о важных изменениях. Для этого потребуется отдельная настройка GitHub Actions и проверка доступности источников.</p></div></main><footer>Аналитический портал · Прототип</footer></body></html>
+<title>Аналитика новостей | Москва и МО</title>
+<style>body{font:16px system-ui,sans-serif;background:#f5f6f8;color:#192333;margin:0}header{background:#16283e;color:white;padding:28px max(20px,calc((100% - 960px)/2))}main{max-width:960px;margin:24px auto;padding:0 18px}.grid{display:grid;gap:14px}.card{background:white;border:1px solid #e0e5ea;border-radius:12px;padding:20px}.card a{color:#175b9b;text-decoration:none;font-weight:650}.meta{font-size:13px;color:#64748b}input{padding:12px;border:1px solid #ccd3dd;border-radius:8px;width:100%;box-sizing:border-box;margin:12px 0 20px}h1{margin:0 0 8px}p{line-height:1.5}.status{font-size:14px;color:#576578}</style></head>
+<body><header><h1>Аналитика новостей</h1><div>Экономика, недвижимость и рынок новостроек</div></header>
+<main><p class="status" id="status">Загружаем новости…</p><input id="search" placeholder="Поиск по заголовкам и описаниям" aria-label="Поиск новостей"><div id="news" class="grid"></div></main>
+<script>
+const box=document.getElementById('news'),status=document.getElementById('status'),search=document.getElementById('search');
+let items=[];
+function normalize(data){if(Array.isArray(data))return data;for(const k of ['news','articles','items','entries','results'])if(Array.isArray(data?.[k]))return data[k];return []}
+function field(x,keys){for(const k of keys)if(x?.[k])return x[k];return ''}
+function render(){const q=search.value.toLowerCase();box.replaceChildren();let count=0;
+for(const item of items){const title=String(field(item,['title','headline','name'])),description=String(field(item,['description','summary','text','content'])),url=String(field(item,['url','link','href'])),source=field(item,['source','publisher','feed']),date=field(item,['published','published_at','pubDate','date','time']);
+if(!(title+' '+description).toLowerCase().includes(q))continue;count++;
+const card=document.createElement('article');card.className='card';const a=document.createElement('a');a.textContent=title||'Новость';if(/^https?:\/\//i.test(url)){a.href=url;a.target='_blank';a.rel='noopener noreferrer'}else a.removeAttribute('href');card.append(a);
+const meta=document.createElement('p');meta.className='meta';meta.textContent=[typeof source==='string'?source:(source?.name||''),date].filter(Boolean).join(' · ');card.append(meta);
+if(description){const p=document.createElement('p');p.textContent=description;card.append(p)}box.append(card)}
+status.textContent=`Новостей: ${items.length}. Показано: ${count}.`;if(!count)box.textContent='Нет новостей по этому запросу.'}
+async function load(){try{const response=await fetch('./news.json?ts='+Date.now(),{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);const data=await response.json();items=normalize(data);if(!items.length){status.textContent='Файл news.json загружен, но формат данных не распознан или список пуст.';return}render()}catch(e){status.textContent='Не удалось загрузить news.json: '+e.message}}
+search.addEventListener('input',render);load();
+</script></body></html>
