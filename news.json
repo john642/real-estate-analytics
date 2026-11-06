@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T23:38:06.318041+00:00",
+  "updated_at": "2026-11-06T14:16:18.012898+00:00",
   "items": [
+    {
+      "category": "Экономика России",
+      "title": "ЦБ предупреждает о новом перегреве экономики России и видит препятствия для снижения ставки",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU1FZak56cW1NSndXd0RHT3dwdEdSekhGSXI0M05tQnYzNXphRExLMGZaU2ZUcHdZMXlTaXZ6ekRyeVluT1RNaDZ4a0hWRC1zT1h2ZHdmOWd5VllQSkVOMDQ1NlBrZS1zZ0tkWmxhX0lQT1NJT2I5ZTE5MTg2TDNQQUFEMVZuOFBkQ0FUelZYYzl0ekprN0RaelhZQTJGLXgtNG1iSE1UNUp0RVItYmVoX0FXSFhjYW5aSzRxZ1gyeVB4VjlDY1E?oc=5",
+      "published": "Fri, 06 Nov 2026 10:32:47 GMT",
+      "source": "IVBG.ru",
+      "description": "ЦБ предупреждает о новом перегреве экономики России и видит препятствия для снижения ставки IVBG.ru"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Итоги недели: машино-место по семейной ипотеке и новые правила оценки заемщиков",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUtLWmZsUzJHMWVGUTNEVG9FMTdKUV91SmhVM2YxNzI0OFNIRXR0aXctaWlQNVBVbW4wblNKbXFGdFdlNG1uZHZ2WXNLeVpfUW5USUJ2S0JjNVp4bmZJVi1IN3praGZTNk9DcUVDUVZFOGRWc3pmTWt4c2JjMzVNTnZoZmhHYTQ5MlVQZ3Z1ajRhbUs0SWlvTTZpRFB2VVZ1ZkczM01vcHdVMGRYaExRNDNZaWZjblREaGttQw?oc=5",
+      "published": "Fri, 06 Nov 2026 09:08:00 GMT",
+      "source": "Урбан Медиа",
+      "description": "Итоги недели: машино-место по семейной ипотеке и новые правила оценки заемщиков Урбан Медиа"
+    },
     {
       "category": "Экономика России",
       "title": "Банк России зафиксировал признаки перегрева экономики и допустил ужесточение денежно-кредитной политики",
@@ -19,14 +35,6 @@
     },
     {
       "category": "Экономика России",
-      "title": "Инфляция бьет по России: почему Центробанк вынужден держать высокую ставку",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWxmOTM3TjFOejJYSmhwa2xOZnp3UWhGTS04RGptdjh3YWZVZHN2dGVSRnl3RG5ETEpQUS1FcDRfWXo3djE3MGtybkR1elNGZWpkcWN2V01rbGctX0xxZGNRZW9JUVZaYmEzUXV4bC1LbEZDMDBPSzN2ZmZRbzJlN0FqYzNGRUZpU1E3U2lxcDNQeVpFQkNXR1FTVV8yT0dzVUlsWG4tUHhlZ1c5WWVBeEFiS292WG9uMHlabdIBwgFBVV95cUxNaUtGMzZRUWF6Tk9JQ2dvR1ZJVWhUSkpsU2xqWHEzWGVQRTdvRDV2T1BoN0dTWVJMd2pRbHJsdExIdzVGQWk2cVZLNEhVSTg5VmZOenpDTWNpTVZZVkJKNmt2eEU3amNCaE92aW5KMzRkTGhST1Y2cjN1ZWp5V1FKOGVLSU1kM0dja3hrMi1KUjVMazZtUVdnZmhZRXdNZWh0WjhKQzdpbGI3cmJtYkVpZzdqT1RYN1pWTHZXMmVKem1SQQ?oc=5",
-      "published": "Thu, 05 Nov 2026 16:04:00 GMT",
-      "source": "24 Канал",
-      "description": "Инфляция бьет по России: почему Центробанк вынужден держать высокую ставку 24 Канал"
-    },
-    {
-      "category": "Экономика России",
       "title": "Инфляционное давление растет, потребительская активность падает: ЦБ — о перегреве экономики в третьем квартале",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aQ09oMUEzQjVUYk8yZjhxOW5WR0lBVG5KTVJKVjIxMmFkcUxLcXdWb3hWM2FlWmhsU3ZXX0FBb1JxbWVab3JLZXlTSFNQYURqX0djMXZwdw?oc=5",
       "published": "Thu, 05 Nov 2026 15:55:00 GMT",
@@ -38,8 +46,8 @@
       "title": "Объём строительства многоэтажек в Москве увеличился вдвое за 10 лет",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2ZYMjVaMWRRdTZQNktFbUNtWUstWXZtQUwwU3dvczlrVktjcUtXMGllZjdWRURLVnNzaEd0WHlwcUZCZDBLTmRRdG9GSUxra0g2d05EMUZSWXRsOFBEOE8tVG9kVlRYWUVfalVYWl81WjZxbXh1QURTMTNxQ2ZuRUhaRkxQaXhzZGRQbGdYV3JzY1JzVFpiMzc3UlRySTNaZ1BwWVRhZzg3QU1jLXpHTk5CMENUY3YwcjdpZHVCc21GNlBYLVE?oc=5",
       "published": "Thu, 05 Nov 2026 14:40:00 GMT",
-      "source": "RB.RU",
-      "description": "Объём строительства многоэтажек в Москве увеличился вдвое за 10 лет RB.RU"
+      "source": "RB.ru",
+      "description": "Объём строительства многоэтажек в Москве увеличился вдвое за 10 лет RB.ru"
     },
     {
       "category": "Экономика России",
@@ -115,19 +123,11 @@
     },
     {
       "category": "Девелоперы и продажи",
-      "title": "Срок вдвое меньше, платеж вдвое больше: как реформа семейной ипотеки изменит рынок недвижимости",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ2NoREJRdGdLWGtVSklVS2o5aUxIYkpuTlMtTlhfWmZQUElKLU02UWJ0cXc4ZGE0b0djNTFYZGxUSUZ6ejluanp2OVM4UHNBN200ZXJNYkhRNE0zLTF3TzNPM0M2enJrbmc3cTF1Y09XTV9WZ0pZWW9XTmlnM2dWYVBCNDdNQkI1N1RVZ3dlV1VDc3F6aUlXcHBJVXROTTJaUnQ3TklsYUp6TXRnQ0Jibnp5U0ZYX1JMbE5kanZtQVJ3anFfUFNtNA?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "source": "Эксперт ЮГ",
-      "description": "Срок вдвое меньше, платеж вдвое больше: как реформа семейной ипотеки изменит рынок недвижимости Эксперт ЮГ"
-    },
-    {
-      "category": "Девелоперы и продажи",
       "title": "Продажи новостроек рухнули: застройщики начали снижать цены",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHQ0dDVfbnF0QXktSEhoLXE1S0J5YThEZWdNQU9wUEFKUnFFS2k1eWFjSEswMmZQVnlqNFcwc251Wi1HNFNEaG1VZ1lOQ3ZvU3YxRW9IQlRCeV9jdFBwZGduTVF3U0U4Y1EtZlo4eGZhcm9uX3BwUmR0bk1meGx0OTY2Y3UycXFaUTZvdU1BNEFmT25RRzIzWGlRVkRPMnJLSkhGaENfbUtra1p4Rjc0?oc=5",
       "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "source": "Росбалт",
-      "description": "Продажи новостроек рухнули: застройщики начали снижать цены Росбалт"
+      "source": "rosbalt.ru",
+      "description": "Продажи новостроек рухнули: застройщики начали снижать цены rosbalt.ru"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -243,6 +243,14 @@
     },
     {
       "category": "Экономика России",
+      "title": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,00% годовых",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVFZ3WlgzMjdVTlpvOGxtdXVjTlc1dlRxM1hyVzhPMzR2aXFGbGo0SkNzTU5YLU5Jb19fSllnOGFFdUV5S0dlRFhuNVdubkNkYWozdHRFdEljNzRLVWRzd1NPT3BOczg?oc=5",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "source": "Центральный Банк России",
+      "description": "Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,00% годовых Центральный Банк России"
+    },
+    {
+      "category": "Экономика России",
       "title": "Опрошенные ЦБ РФ аналитики существенно увеличили прогноз по инфляции в 2026 г.",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWFpJM3pRQ2hjVFoyM0Zaa2hKMi1TQ2JTd3NiSjJPTmVXZkhKVzBLbm5SUHBRQ0l5WXNQMm9rbzFhVTlyc3ZOQVU3X1dYY1BpMVHSAUtBVV95cUxPWlNlSUJrZXlDclB1QnRtdGNjREdnOTVid05zNWdzaS1ycG9jR2p2RGloLVZsWmNxQkFiNEszYXpYeW5DRlJjaFNUZTA?oc=5",
       "published": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -299,6 +307,14 @@
     },
     {
       "category": "Ипотека и регулирование",
+      "title": "Минстрой анонсировал изменение правил семейной ипотеки с 1 июля",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ096cmp5WWc0eC1JX3VCOHFDR0RMbGRsOFNhWE1yRDNQclZYWGN1b1hiYXB1REY2NEpBZzhJa2l6cWNPVEVjNjNzeGZhUnQ0OWtPQUFRbVk4ejRyX3JmMkpucGJ5b0hscUU4bWM5Y2tRRW1penhPWm9teG1tdzg?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "Ведомости",
+      "description": "Минстрой анонсировал изменение правил семейной ипотеки с 1 июля Ведомости"
+    },
+    {
+      "category": "Ипотека и регулирование",
       "title": "Минстрой допустил повышение ставки по семейной ипотеке до 12%",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43WEFYS3hGOUVmNWhvU3NHdV85VmVlRG4wUmtsVVQ1YkpNUmh2czA3X252Rzh0eVV3bkZnb19LTW5NdGxa?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
@@ -323,19 +339,19 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
+      "title": "Цены на новостройки идут на мягкую посадку – исследование Домклик и Центра финансовой аналитики",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUJuMmtRVkxPbzl0emJFNS1scjZaNkxDUmYzcndkSTFKaWV3UURvMjZ6WXlIUERyX1VvSmNuTk83eHlzdlFHcG5icVB0ZThXR2d3VmRzLTUyY092MU5pQWFvdHdRZ3l2Q1JZOG8yYm1QOWN6N3NxaUJGSlkzd2ZKRHpTV2FkMHRXSThwTV9vcmw2bmZPRzNzcUVWZkRWa25uY1dGVVNoOEJ6UkNBS1E5RVVYRDNqOF9lRWVXUkQ0UzNtOU96LXV2Z1VOd3hnM3c?oc=5",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "source": "Сбербанк",
+      "description": "Цены на новостройки идут на мягкую посадку – исследование Домклик и Центра финансовой аналитики Сбербанк"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
       "title": "Застройщики не могут распродать почти треть нового жилья",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1JkcVE3dHdFTUIzRlVoWlpLazdpTXZJM3NYTmVvVzU0T250Q0FibmVzZWxCS3FCcGZ1bjRnTUxIMUIwa1Z0ak41YUVSLTRIM2p3TXpuWG5BSUozSzdZSmN0cTVPeXFoVDFROVZTLXJ6VzVlbXZnSFZhSnIyeVdUOXUwZkNRcUxFS2laV2RWU1ItMHpPQ1E?oc=5",
       "published": "Mon, 15 Jun 2026 07:00:00 GMT",
       "source": "Московская перспектива",
       "description": "Застройщики не могут распродать почти треть нового жилья Московская перспектива"
-    },
-    {
-      "category": "Экономика России",
-      "title": "Президент РФ заявил, что жесткие меры по снижению инфляции дают результат",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fa2tqZU9Sd3pZbThtbzM1M3RyWXZiS2xqQ2NOWFc2UE82N2JvZUJwOHpKajNkbVJ0bWRCTUZ0d3B5UVFSYUEzaEU4UkhibWNkc0HSAUtBVV95cUxQVFpmMmJoQVRDY2VXdTdDdjV4NTk2QXpUZXdvQm8tZEpyM2ZGSWt4Vlp0ODFfZEhBNklBYUpEOUNnRnN6Z3NrQlBMLTg?oc=5",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "source": "Интерфакс",
-      "description": "Президент РФ заявил, что жесткие меры по снижению инфляции дают результат Интерфакс"
     },
     {
       "category": "Девелоперы и продажи",
@@ -474,20 +490,20 @@
       "description": "Дедолларизация мировой экономики: в поисках нового равновесия Econs.online"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "«Цены на жилье повышать уже некуда, но и снижать — тоже»",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LaHNVRFVTdnNScFBSWkdSNlpFcTFyRWJlSmxVVGh4QjNGMHNpdkRGQzczbnV3THNYRHRMX0VZdjRRUXFPY1JMbGJ1TEZSNldGRGItLU42RkFQSWIwenRlUmh5d0hJdmczLXl1MjZR?oc=5",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "source": "Т-Бизнес секреты",
+      "description": "«Цены на жилье повышать уже некуда, но и снижать — тоже» Т-Бизнес секреты"
+    },
+    {
       "category": "Ипотека и регулирование",
       "title": "Минфин сообщил о новшествах в семейной ипотеке",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVThLUWNkYUxSREhCZkY2eUc5alcxV1Q1SDZPS2VTZWRudGQtTHdGQnBNanJndVk5UG9lSVRzNS1CRk1KdktJMzZoYUVvbWpTTHNseQ?oc=5",
       "published": "Mon, 27 Oct 2025 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Минфин сообщил о новшествах в семейной ипотеке Consultant.ru"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Ипотека и маткапитал: оформить жилье в общую собственность стало проще",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wM3VPNkk0d3NCWjBka1lrdjktR1M3SGx0TUJHZWV5TmZ4dEcxLTU5Q0ZVZ3F2SjlvTG5femZmcl91UjBXRXVsS0xDVE16cko2eU9zMw?oc=5",
-      "published": "Wed, 09 Jul 2025 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Ипотека и маткапитал: оформить жилье в общую собственность стало проще Consultant.ru"
     },
     {
       "category": "Ипотека и регулирование",
@@ -504,14 +520,6 @@
       "published": "Wed, 15 Jan 2025 08:00:00 GMT",
       "source": "Econs.online",
       "description": "«Пять Д», трансформирующих мировую экономику Econs.online"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "🏠 ЖК «Берег» Москва, Химки, Береговая улица, 2 от застройщика ООО",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNi1XUWpyT1oxZTNpWldfTTVvVmFNbXUwUGpMbHhPbkZOTlMtT3Q0dTFBSTNXRHJKbzh1VEZvcncwVUZneFpqXzhCWWdPOTdYb2VmaXBYMXRNa0U?oc=5",
-      "published": "Thu, 19 Dec 2024 05:15:21 GMT",
-      "source": "Домклик",
-      "description": "🏠 ЖК «Берег» Москва, Химки, Береговая улица, 2 от застройщика ООО Домклик"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -552,14 +560,6 @@
       "published": "Thu, 05 Dec 2019 08:00:00 GMT",
       "source": "Econs.online",
       "description": "Плюсы и минусы финансовой глобализации | Экономика - Финансы - Рынки капитала - Регулирование Econs.online"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Мировой финансовый рынок: три главных риска",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFhNX1UtYmNWa3hxTFFXN3BDNkV6ckdYd1dhZjVCT1dOMVdTaG1Sc19UaWpFc2FJZGsxUk53MWU2T3hOSzBjSlNESm1mR3hsa1REb1A3MjZzOXpBYm9kaDRWbFRDZmo1RnBRN1FKOWpOTXdXTXhIYXF4SHhZQVBaTzVDd3ZsZVdEbE84R0JHcw?oc=5",
-      "published": "Tue, 30 Jul 2019 07:00:00 GMT",
-      "source": "Econs.online",
-      "description": "Мировой финансовый рынок: три главных риска Econs.online"
     }
   ]
 }
