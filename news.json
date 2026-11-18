@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:59:12.476840+00:00",
+  "updated_at": "2026-11-18T00:57:16.564409+00:00",
   "items": [
     {
       "category": "Мировая экономика",
@@ -8,6 +8,14 @@
       "published": "Tue, 17 Nov 2026 12:10:22 GMT",
       "source": "АБН24",
       "description": "Войны, кризисы и катастрофы: The Economist дал тревожный прогноз на 2027 год АБН24"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Продажи новостроек на Кубани упали почти на 40% за год",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGlHVzQ3RTIzaWMxdS1Qby1PTV9Zd0RUb0RtZUs2dkRzTklzNTJEZ0FlZFpDbjF5dFN0YUNPdnZDYXc4eTIyVXh3RnVzczhPc3lQb24zU1Z5N0ZDSnBRX1c5SHBXRmhyN1lMZGtkRFVPVi01SEhvMHNzV2lYS3R5UFpkUFBYSThzbEZBVFlPMEZRZ05BMjZF?oc=5",
+      "published": "Tue, 17 Nov 2026 09:59:11 GMT",
+      "source": "Краснодар .BZ независимое СМИ Кубани",
+      "description": "Продажи новостроек на Кубани упали почти на 40% за год Краснодар .BZ независимое СМИ Кубани"
     },
     {
       "category": "Мировая экономика",
@@ -74,22 +82,6 @@
       "description": "В октябре в Московском регионе снизился спрос на новостройки и ипотеку – новости на сайте Novostroy-M.ru Novostroy-M"
     },
     {
-      "category": "Недвижимость Москвы и МО",
-      "title": "Льготная ипотека в 2026 году: действующие программы государственной поддержки и их условия",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVpDZmtMdHVXNFl3YS1aSGp2M2k4Tml0M0habG1XMEhMd2pGMmJaMGlWem9NMWdydzYxQUszQlg2TXZHTUxIMnZueVhIak5MWlpOZnJ6a1Bpa3hHQlRLSGpjYkdVTTlRS29neTFXZmhBeEhZeTBFZExtRVF5MWQ5OWN6NEE?oc=5",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "source": "ДОМ.РФ",
-      "description": "Льготная ипотека в 2026 году: действующие программы государственной поддержки и их условия ДОМ.РФ"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье?",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGFMTW1LUnZiQ0U5M0NJamlVTFlkaUMyU0Z2c3NyalhLS3FYeUQwRlFJVG9XdThPc0FoY3NQTm5YYXB4cDQ4UHVoV3JTYW1kT1NXcW1objdob1NBMEdhRWRGQTR3QmVDcnBMdUhWRmJxZm44Y3FuaVBHR2NBSTVPai1SN1hIbTU0UGNoTlp6SS1ZSmVDVV8yUW5BX2p3R0FKRjg1N1l5bVYxc3NmVDBqeUNETWNZNm5GVnJrQnFENA?oc=5",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "source": "Финам",
-      "description": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье? Финам"
-    },
-    {
       "category": "Мировая экономика",
       "title": "Мировой рынок золота: четыре сценария будущего",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUVPN2pfem03ajIxM2ZhdHd3bS1Dc0x3T09Lbzg0NWQzQVpHSzRSWEVLMnNqMEhMWEFzUFFIcTlXRGNZRFhNdmJpVTdoNGNtSlVFV0U2UGM2SEtEeHR1WlREYXUxMm9VeXJ6MFZKVWEzTTMtYm1XSzVYbFdrUnh5MzJUTXNBdk9adWVHbHVOUXBZVUlFNnIw?oc=5",
@@ -146,14 +138,6 @@
       "description": "\"Семейная ипотека\" изменилась: как отреагировали застройщики - Недвижимость || Интерфакс Россия Интерфакс Россия"
     },
     {
-      "category": "Ипотека и регулирование",
-      "title": "Выдачи «Семейной ипотеки» в Сбербанке продолжаются",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhwV1NXOElOSG5fTV90T21iQXpEdTA1aWhsWHAwT0VYWG0tRWNXM1RBMkpwc3g2azRvRU1UY0dMSFVwLTBHYmFnLTNydi02Q2dDSG5uOXZkZ1VoXy1YSW5nMmtYT0hjNzB5Mkw3ek9qdHVrZ1Rsdk1Sc3JwXzNvSkVfTTJwUWR4Mm1kTEI3dnluakRT0gGaAUFVX3lxTFBiMGZ5T1RtYzZKaDRhUEJsRnRXMGRLZFk1UVltbkFndjFoRkZtZFBrQWc0aVI1N3Vta2JqY0s1Mzdnd1B6cm5pczZIcERJSG04cW5JNzBpbUxZNEx4b05FTTRMRTlnMmlKZ3BxVjVIekM1Z2tmb3pZak5iNDNqaThUNW16UUJua1pKVlJiMlk2d2FGQ1p5azU1d3c?oc=5",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Выдачи «Семейной ипотеки» в Сбербанке продолжаются Журнал Домклик"
-    },
-    {
       "category": "Недвижимость Москвы и МО",
       "title": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSDFPaGtZZkVVMldLVW5pS1kwT05MYzlBUGdnV0xOM05SamhOMnpQelNXdl9ZbUxRQ0FjTmFIZ1RHbHhTWE92RW1OdEZ5bUxoUkc1TnpIZnA3b3h2X3preG1ZQ0VqNzNzdkE?oc=5",
@@ -170,7 +154,7 @@
       "description": "Определены самые покупаемые новостройки Московского региона в августе – новости на сайте Novostroy-M.ru Новострой-М"
     },
     {
-      "category": "Девелоперы и продажи",
+      "category": "Недвижимость Москвы и МО",
       "title": "Итоги августа: спад продаж новостроек привел к сокращению выручки застройщиков на 22%",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PQUR1d3ZqVTNBUnpFRnFNT1BIdzJJV2JpLWxlanI2NFczYlhMbXlxLURHeVZudkhjYXJZcmZESFdOaDg5Ulk2N2hTaW5mT3JNeU1qM2JselpsTENfV3NOVTZaYw?oc=5",
       "published": "Mon, 07 Sep 2026 07:00:00 GMT",
@@ -216,6 +200,14 @@
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "source": "Журнал Домклик",
       "description": "Как оформить квартиру в собственность в новостройке в 2026 году Журнал Домклик"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Застройщики станут предоставлять рассрочку по ДДУ с учетом спецтребований – проект Минстроя",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43a1JXSW95NHEwYW1kNW42Sm4xeTdDRVpMT1BYNk8zYVR4WDdyV3FCOUtBbEE3ODlrMFN3VUtPMWJYVW5RNVdEVmc0N2tlZ0FsQTFfQg?oc=5",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "source": "Consultant.ru",
+      "description": "Застройщики станут предоставлять рассрочку по ДДУ с учетом спецтребований – проект Минстроя Consultant.ru"
     },
     {
       "category": "Экономика России",
@@ -272,6 +264,14 @@
       "published": "Fri, 19 Jun 2026 07:00:00 GMT",
       "source": "Журнал Домклик",
       "description": "Новые ставки по «Семейной ипотеке» станут известны в ближайшие дни Журнал Домклик"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Максимальная ставка по «Семейной ипотеке» для семей с одним ребёнком может составить после изменения параметров 10% или 12% — глава Минстроя РФ Ирек Файзуллин",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZjR3NVd2TlFOMTUtS1RHcF9VUzYtQl9aY1FRc3VoNlBkU2E0QmhuclRyVDdTNS13bUtqcFBRV25CUEhfRVlORTI5TkZGc3I0bEY5Z0pGQWcxdkJSSkdTYW1lMkVvRHBZMlN5dFJhak55QXd4SkNoV19BLWh2enJvQjVaeGE4eUhndks3bkRRSnJYYURKSFVoUGNIaFF2RGVIYTJNbHljQU1QdllqN0dBMVczRnJ1aWU2a0MzaXhsb2ZrMHg3cWNUaDdTalZ0RHdSczJ4NkVNN1Joemk5NENvckVMX3Z4Y256ZTYtZ2FMTEczM3RaTmtRSDExYUx0WFVvdC1LSk1QckIwV1BvZjdKUjdLblBZSmREYjQweg?oc=5",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "source": "Всеостройке.рф",
+      "description": "Максимальная ставка по «Семейной ипотеке» для семей с одним ребёнком может составить после изменения параметров 10% или 12% — глава Минстроя РФ Ирек Файзуллин Всеостройке.рф"
     },
     {
       "category": "Ипотека и регулирование",
@@ -362,12 +362,28 @@
       "description": "Банк России принял решение снизить ключевую ставку на 50 б.п., до 14,50% годовых Центральный Банк России"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "Как найти квартиру с субсидированием ставки от застройщика на Домклик",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBXU0FOSmFPUFFJZ3RFZGhDOGhkalN1QW83YmQzRVBxeE44Qi1TTm1BOElUSzBYUWc2ZFRsempxaHVtQ1lESE04dXQtQXRCRVlmQ0ZOOHl6ZjFpYW9sb2RWSnBTQ0syOGFOMFhqRFJRaDVib21Sc2dZZWNoQ20tSkRrNXAwczc4UExmbUhueV9DNTJ5dlNJVVJQWFBqY3JESlo0RUJoNGQyUdIBrwFBVV95cUxQTzRUNHZna2VDaUlKMnJDTm54dElWLXZWbVd0ZkJDcHRIXzlPMGk3TnVHX05XNHFLWS1wc05na2x6RFdqek9WWUJjRm9GTW1MUk9CWERYSGNfaUhROU1wOEZQbjZCdWl0Q3dGdEtINTNJWlZpcUxhRlFqSUpxM25qV1hBMFhFMVN6STNTMmNXbGMxRVBxRTJVenowbzhrZVdKRUdhc1FhYlNEWm00M1FR?oc=5",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "Журнал Домклик",
+      "description": "Как найти квартиру с субсидированием ставки от застройщика на Домклик Журнал Домклик"
+    },
+    {
       "category": "Экономика России",
       "title": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQ3ZZZG9ZaFRYdUZsOEVGT2hWNjZpSnRsZElhSUxEaGdzdkdWcklVVjFfUWRja1VOeWJiS0lhUWJ3N2N0bTVDYjFrLW1WbFlwSjU2QkhJMTNHRXc?oc=5",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
       "source": "Банки.ру",
       "description": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают Банки.ру"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90cWFhRzVBanViRDY2c21hWUlLQ2pUVmttOTJ0eW5HTVFlNEpzZ1M5NDhXS3JWQlBHRWJpTEtaWGhqWXlqcXc?oc=5",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "source": "Т—Ж",
+      "description": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются Т—Ж"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -450,14 +466,6 @@
       "description": "Ипотека с маленьким взносом: 5 самых доступных новостроек Москвы Журнал Домклик"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "«Цены на жилье повышать уже некуда, но и снижать — тоже»",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LaHNVRFVTdnNScFBSWkdSNlpFcTFyRWJlSmxVVGh4QjNGMHNpdkRGQzczbnV3THNYRHRMX0VZdjRRUXFPY1JMbGJ1TEZSNldGRGItLU42RkFQSWIwenRlUmh5d0hJdmczLXl1MjZR?oc=5",
-      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
-      "source": "Т-Бизнес секреты",
-      "description": "«Цены на жилье повышать уже некуда, но и снижать — тоже» Т-Бизнес секреты"
-    },
-    {
       "category": "Ипотека и регулирование",
       "title": "Минфин сообщил о новшествах в семейной ипотеке",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVThLUWNkYUxSREhCZkY2eUc5alcxV1Q1SDZPS2VTZWRudGQtTHdGQnBNanJndVk5UG9lSVRzNS1CRk1KdktJMzZoYUVvbWpTTHNseQ?oc=5",
@@ -482,20 +490,20 @@
       "description": "Как купить квартиру в новостройке у застройщика в 2026 году Банки.ру"
     },
     {
-      "category": "Ипотека и регулирование",
-      "title": "Ипотека и маткапитал: оформить жилье в общую собственность стало проще",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wM3VPNkk0d3NCWjBka1lrdjktR1M3SGx0TUJHZWV5TmZ4dEcxLTU5Q0ZVZ3F2SjlvTG5femZmcl91UjBXRXVsS0xDVE16cko2eU9zMw?oc=5",
-      "published": "Wed, 09 Jul 2025 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Ипотека и маткапитал: оформить жилье в общую собственность стало проще Consultant.ru"
-    },
-    {
       "category": "Недвижимость Москвы и МО",
       "title": "ЖК МЫС",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GOEtQZHBlSDBpanhpQTJRaTdITThyN2hKN2s2c2RRR0F5WkxjSy1jcGEzaEk1RVQyZFYwY18wOUJqbWVXMmhmdGZCdklveHdsSVdZ?oc=5",
       "published": "Tue, 08 Jul 2025 22:23:55 GMT",
       "source": "Домклик",
       "description": "ЖК МЫС Домклик"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "BIS ухудшил прогноз роста мировой экономики из-за возросшей неопределенности",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BVlF2QlBsaGtfclZKczJROFJCOC1YYzJxYWRqbkViVkhLZnZZTE5sV2ZLcFVYX3hSQ25BOXFvQndZTGFoY3dkUTZiYlplMlVtWWfSAUtBVV95cUxObjMza3IyRlZZZWRGbHpyYUNCLVlTZ29ybGpSUWdjSXFNMC1HX0NWenQ4MTFNQU9EUHoxWFoyMWpSVEdXUkcyMlpvakU?oc=5",
+      "published": "Mon, 30 Jun 2025 07:00:00 GMT",
+      "source": "Интерфакс",
+      "description": "BIS ухудшил прогноз роста мировой экономики из-за возросшей неопределенности Интерфакс"
     },
     {
       "category": "Мировая экономика",
@@ -528,14 +536,6 @@
       "published": "Thu, 19 Dec 2024 05:15:21 GMT",
       "source": "Домклик",
       "description": "🏠 ЖК «Берег» Москва, Химки, Береговая улица, 2 от застройщика ООО Домклик"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "Новая Москва: описание, лучшие районы для проживания, где купить квартиру, перспективы развития",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWJNRnh5Q21LWDAyWGozWFpPaFZhUU94bGFqR1ZGNVQzNXJFWjdDcERWbU9vYWtSSjUtSDQ2WVNraUNJb1ZuUDU1UXEtaHc5M1lNQkkyRnJWY0JaSGd3eHNxS1d2NzNEYklaVzB5NTBYbzA1WGtIUm9MZE9jWDllajhDZ1FBVHliQm1QLW1mTllrVzBDWThUdGhjdHVoMi1tVWtBekpvR2JmejQwYTN4XzBadV8yM1dvb0xnMG0yZkxoSGJiODRPLWN1TEhrZnA2VHc?oc=5",
-      "published": "Thu, 12 Dec 2024 08:00:00 GMT",
-      "source": "MskGuru",
-      "description": "Новая Москва: описание, лучшие районы для проживания, где купить квартиру, перспективы развития MskGuru"
     },
     {
       "category": "Недвижимость Москвы и МО",
