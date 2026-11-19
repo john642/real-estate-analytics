@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T15:39:23.075697+00:00",
+  "updated_at": "2026-11-19T00:22:22.149613+00:00",
   "items": [
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Ипотечный бум случился из-за модели эскроу",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OMXdXSUVaWUdQQWhpcjQ4UW1vVHE1dk5sTjFBSnZWeU1iTmlwNXJ0Rmw4VEpwNDhnM1hmQVBFb3ZJUjRfMFZTV3lhOHpLUQ?oc=5",
+      "published": "Wed, 18 Nov 2026 14:09:46 GMT",
+      "source": "Smart-lab",
+      "description": "Ипотечный бум случился из-за модели эскроу Smart-lab"
+    },
     {
       "category": "Девелоперы и продажи",
       "title": "Жилье в России продолжает дорожать на фоне падающего спроса",
@@ -16,6 +24,14 @@
       "published": "Wed, 18 Nov 2026 07:00:00 GMT",
       "source": "Эксперт",
       "description": "Как дорогая ипотека меняет спрос на новостройки Эксперт"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Цены на новостройки почти встали: какие скидки готовят застройщики и что будет с рынком недвижимости",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRC1Ga3BOZGczZWR1cHBfUFZfRW1yRU5OcGNYWllDWTYzbjRvQnRfc1hKZGNEY19aZ2RoWGNhNE0wYmlFNGVOX3lIck5SRWRuYmxzcFprakx0Zjdvd3NSTEdTTk1VSUNTUU1yeC1Pb185NGF1eVlLNkh4cVpSNjRuWEI3VG9lYjFXeWYxaEpaSE1WbnIyU1BrY0dVajFRSGNDQktXSTNDU3MyOXZ3Y2FLallMRW5tSGhQUlRVaTB3blFWWi0yMFpYRzJISC13cnFMa1dYUmFDYw?oc=5",
+      "published": "Wed, 18 Nov 2026 07:00:00 GMT",
+      "source": "Районные вести",
+      "description": "Цены на новостройки почти встали: какие скидки готовят застройщики и что будет с рынком недвижимости Районные вести"
     },
     {
       "category": "Мировая экономика",
@@ -291,11 +307,19 @@
     },
     {
       "category": "Ипотека и регулирование",
-      "title": "В Госдуме анонсировали увеличение максимальной суммы кредита по семейной ипотеке",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96dlJFTVB4SXpBbEY1cGRRbTRzSXhGbFJnS1ZjbUNjQ0FRZUFWUlNUcWEwY243aHNQMm83enZXdGVzYzU3LUNvZW8xSDFFSDBkbmZvWkdZQQ?oc=5",
+      "title": "Минстрой анонсировал изменение правил семейной ипотеки с 1 июля",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ096cmp5WWc0eC1JX3VCOHFDR0RMbGRsOFNhWE1yRDNQclZYWGN1b1hiYXB1REY2NEpBZzhJa2l6cWNPVEVjNjNzeGZhUnQ0OWtPQUFRbVk4ejRyX3JmMkpucGJ5b0hscUU4bWM5Y2tRRW1penhPWm9teG1tdzg?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "source": "Банки.ру",
-      "description": "В Госдуме анонсировали увеличение максимальной суммы кредита по семейной ипотеке Банки.ру"
+      "source": "Ведомости",
+      "description": "Минстрой анонсировал изменение правил семейной ипотеки с 1 июля Ведомости"
+    },
+    {
+      "category": "Ипотека и регулирование",
+      "title": "Правительство пересматривает условия «Семейной ипотеки» с 1 июля",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXh3VTZ2RUxMWjJNVGJLYkR3bWpuUHItbW50OC1RNFJ6M1JxMEpDeFNvRk9Wcnppam1JUFNsa21NSGwzWXpjcFlMUHo4ZTJFamZVaG8wU2I2cTZoZUZ2LTcwYlJ6cXI4MkFDOVQ3SmZ1TE5TMXN6X3VQZ0ZRSVRjakVQSU5LY2hjbm1zVU9NMNIBlAFBVV95cUxOYm5RSEprdFBwc3FoR2dIU2VXNlFKYzV6RXNyNDY2b2hqZmc1elM4empqbFZuTU9PYU5RUlBXUmp3UTZLUjNpZll4Yk5PNU5lanFTNmFzQXhUaWRYZlRFTXhEQ0tQdE9Pc3VoY0VBYTFvY0hJaGEtN012UkVFWUo4Vm9OMDNFMFp3UmZVRGpib2J4d1I2?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "Журнал Домклик",
+      "description": "Правительство пересматривает условия «Семейной ипотеки» с 1 июля Журнал Домклик"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -362,12 +386,12 @@
       "description": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают Банки.ру"
     },
     {
-      "category": "Мировая экономика",
-      "title": "Парадокс успеха: почему сырьевые картели потерпели крах",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc19lT1FOZXM1VWE1ZGtjWTR3WVB2U2tvZ0Q3VDgxYXN3ZDlSLVJmY211QXhpVkNDT29CeEI4QV8zQV9FRUhieHd3X1BwX3hPZE9lbjFtUk9mbkRtbTRQdUhDdV8tMnpaa1dxZXp5eUoybDJOa3FiazhObVNUa1FtazlSNmtTMS13M0dQU1c5dzdiNzlmanZFdkZfZmNUQQ?oc=5",
-      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "source": "ECONS.ONLINE",
-      "description": "Парадокс успеха: почему сырьевые картели потерпели крах ECONS.ONLINE"
+      "category": "Недвижимость Москвы и МО",
+      "title": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90cWFhRzVBanViRDY2c21hWUlLQ2pUVmttOTJ0eW5HTVFlNEpzZ1M5NDhXS3JWQlBHRWJpTEtaWGhqWXlqcXc?oc=5",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "source": "Т—Ж",
+      "description": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются Т—Ж"
     },
     {
       "category": "Ипотека и регулирование",
@@ -382,8 +406,8 @@
       "title": "Эволюция системы международных резервов",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2IybV9GWlBMeUtHWVAzWE5CVnhFYWJtdGlvMWtQd0k1dTRQaEljbmZER3NkSC0yTnE3YkdvekpIeDJ6cDl5UmtxRmYyR2w1MkpxaE1oMmdDQkZYNjVySjJEcGhiR195ek05dnlEWThhMWc3ZjVNODlUVjd2OE10TDNIeUhUaDY1YnhKSg?oc=5",
       "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "source": "Econs.online",
-      "description": "Эволюция системы международных резервов Econs.online"
+      "source": "ECONS.ONLINE",
+      "description": "Эволюция системы международных резервов ECONS.ONLINE"
     },
     {
       "category": "Экономика России",
@@ -410,28 +434,12 @@
       "description": "Кто в Москве строит больше всего: 7 крупнейших застройщиков Т—Ж"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "На рынок вернулась ипотека со ставкой 0,1% на новостройки",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQ2tLUjVGcFNydmk4OFRMdU9IR05BTGdValJ0TjUwWXgwdWswSHpVV21Da0N0Y0hZenJCZk5XRUp4V21iQmgteDhMamlNQ1pz?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "source": "СИБДОМ",
-      "description": "На рынок вернулась ипотека со ставкой 0,1% на новостройки СИБДОМ"
-    },
-    {
       "category": "Мировая экономика",
       "title": "Монетарная политика Китая: внутреннее и глобальное влияние",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVpzUFFBemxuXzkycENJNWZiSHAzMl92TmxkanBkOFo1V0tvMERIaWs2UlRsYlpoU016VmV0VEpPM0tTdXFNbWF4OF9CZFg4V1V5b3ZSeG1FaHptMFhhTzJ1d1doTkdPV0hxVnNZMW5ST0x4dk1laXRjYWEzRXFOUXMwMTh5Z1ZtalB2b09GNTBTcEJ1VXI0c1k0aGtsLVNT?oc=5",
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "source": "Econs.online",
       "description": "Монетарная политика Китая: внутреннее и глобальное влияние Econs.online"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Почему застройщики предлагают нулевую ставку и выгодна ли она покупателю",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RdURHSVhibmF3c2k5WWw3UVpVbzhPVFhnaFIwRzdEYU5Xb05JUG02NVAtN3dqeUxSZS15c2w1T1ZRRjFET1Jrd2xB?oc=5",
-      "published": "Sun, 18 Jan 2026 08:00:00 GMT",
-      "source": "Т—Ж",
-      "description": "Почему застройщики предлагают нулевую ставку и выгодна ли она покупателю Т—Ж"
     },
     {
       "category": "Экономика России",
@@ -442,12 +450,12 @@
       "description": "В чем ошибся ЦБ: почему прогноз по экономике России на 2025 год не сбылся, отвечают эксперты Frank Media"
     },
     {
-      "category": "Недвижимость Москвы и МО",
-      "title": "Ипотека с маленьким взносом: 5 самых доступных новостроек Москвы",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUNta2pTb295RjJyaE9ydDIzYk1Sb3BVVWlRN0pKbm42MGppYkExMEQ1YlRaYm11OXlibDJiLVBsWTJwQlc3VG5VTXJCSEliVTBqVzVmUnVKMHlXWUlnMzgzcjdQZXNfWVp1dkV5OEJxMEZDbW9vdGd4WXp2NEhxazdqLU5MMmxQcjlWNkVaZEpqZ0RjVHhhSGJqY3pYbERudFV5SlRn0gGrAUFVX3lxTE1iMUFPcFJ6bFBQREpBaERhSENzRlhzTHVjTFpUTy1OT2h1V0dka0lBdjU2ejN3Vng4RUdEZkF0REtrS190VGlETVk3SW5QOTdzWEc3UEZ3WGV1SEs4RXBidkQxZGRCRURVZC1HRlV4dmZtWElDUnZMOGlQbHFJUVVDYUpVQWxmMUJmWDRBQThleUY0VzlJLXRHSGN4SGs3YXFBUE1kYk5uNzZMWQ?oc=5",
-      "published": "Wed, 05 Nov 2025 08:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Ипотека с маленьким взносом: 5 самых доступных новостроек Москвы Журнал Домклик"
+      "category": "Ипотека и регулирование",
+      "title": "Минстрой пояснил порядок ограничения услуг ЖКХ при уведомлении потребителя-должника через интернет",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RS2xQNHp5NGJQU0t6Z2pOYnd0U240ZXo3T2dJV1VWQ3hpVU42YW1NWm02YjNBOGNzQldBOVdzRm9IejYyU2VBLWRRM0ZVTnBRLWhSTw?oc=5",
+      "published": "Sun, 28 Dec 2025 23:31:04 GMT",
+      "source": "Consultant.ru",
+      "description": "Минстрой пояснил порядок ограничения услуг ЖКХ при уведомлении потребителя-должника через интернет Consultant.ru"
     },
     {
       "category": "Экономика России",
@@ -464,14 +472,6 @@
       "published": "Mon, 27 Oct 2025 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Минфин сообщил о новшествах в семейной ипотеке Consultant.ru"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Как изменения в программе «Семейная ипотека» отразятся на семьях с одним ребёнком",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNjEwSzlKRlpRbkhNY0EwcWFka0RjZGtxeERIWElvanBmZTRjVm1nMVAzZ2NrdkpSU0N2ZHN6cWxjY3JRUWxsT3Y2VTlvLUVzUlhwc25aOGJ3aHFyaEpleXByR01ER05jTzRuZVZVSDZtWTJ5SVloUmZJMGh4ek5pTjJNbExmbmhPT1B1bDFMdVhoZU9XRGttRVctSXJCVmI1ZzFlcjRlUTdIQlBPTzc2ZVNTOGZKN2FfZVpzbDU5d1DSAcYBQVVfeXFMTUtNUVJCaTJsSHR2S0dUNzZieXFkdDItelA3dHF0aFc1V1dYRnNUeWNkR0dKcElLam1QUGRtVFhDRkM3S2FnY25EdjdIazUyeHJOSnRxUWtLYlJ1SjN3RXk4R2VfamViMnV4VjF1Z09XT25jWDZzeVZDbUhlTmxMOUdWUkxKbTZ2eWNhVktlc2xsR0hXcHJoOHE1Qk1KeWs1V3Rsb0lZdzlSV2NkUk9kaVNSbmQtcjE0SDBjT3pDLWhCa1BmR2R3?oc=5",
-      "published": "Thu, 02 Oct 2025 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Как изменения в программе «Семейная ипотека» отразятся на семьях с одним ребёнком Журнал Домклик"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -514,14 +514,6 @@
       "description": "Глава МВФ заявила, что перезагрузка мировой торговой системы проверяет устойчивость экономики Интерфакс"
     },
     {
-      "category": "Ипотека и регулирование",
-      "title": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DbUNoTTN2cklNa0JIMzBmNkJnYlJVd1p6cFhBNUJiUkR4RUd4V3lCNHJkV0J6Q28tYlFiWFRJYXh6N1doMmpkMkl1N2hiaGpibHM5Qw?oc=5",
-      "published": "Wed, 16 Apr 2025 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ Consultant.ru"
-    },
-    {
       "category": "Недвижимость Москвы и МО",
       "title": "ЖК ВОСТОК II",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00R3NaVlJzMFVwVExxeUhtMGNkUWZ3dDI0OUh3WkZzOUIwbVdpSTB0bUViUXRYdXFISngwR1FEWUtNSDk4T1hCdXRYN2FxZEU1OFJ5OGVOdF84VWs?oc=5",
@@ -530,20 +522,20 @@
       "description": "ЖК ВОСТОК II Домклик"
     },
     {
+      "category": "Мировая экономика",
+      "title": "«Пять Д», трансформирующих мировую экономику",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa01HN0hUM19YTjhIcDFNbFpJelBVYUVyZEtWWDQzejV3VGxBbkJ6bVoyVW8wNWpWZUw2Q0MyeXFzME14Y3pWRkd1T0FhZlNxNVhXTkJ3dzBLNnJzcHVyQzNZOUVweGFBN2x0ZGo0NkZLSjNwUUpRZ253dkZGelFFWDdfZFBWc19QMnhNZzBiOEl0Zw?oc=5",
+      "published": "Wed, 15 Jan 2025 08:00:00 GMT",
+      "source": "Econs.online",
+      "description": "«Пять Д», трансформирующих мировую экономику Econs.online"
+    },
+    {
       "category": "Недвижимость Москвы и МО",
       "title": "🏠 ЖК «Берег» Москва, Химки, Береговая улица, 2 от застройщика ООО",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNi1XUWpyT1oxZTNpWldfTTVvVmFNbXUwUGpMbHhPbkZOTlMtT3Q0dTFBSTNXRHJKbzh1VEZvcncwVUZneFpqXzhCWWdPOTdYb2VmaXBYMXRNa0U?oc=5",
       "published": "Thu, 19 Dec 2024 05:15:21 GMT",
       "source": "Домклик",
       "description": "🏠 ЖК «Берег» Москва, Химки, Береговая улица, 2 от застройщика ООО Домклик"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ТОП-10 самых неудачных жилых комплексов Московской области",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2dxcjBhNGZKZzhoSVZwN1pHYjhISk1vOXRNZ1R5djRpZkFtWUtGTmNNaHhhUm9iRmJDR1dmNTBLRFNXdzgwaU9nOHlzcTNHN2N1WFlza3hkMTBMQmxTZEZhV1lRQVBrV2JyVUtna1ZUWnoxd3RmZTFDVzdBQTNUWkNuQ1NVX1hWYl84R05rcXdxQWpEUXRDVk5YZTM?oc=5",
-      "published": "Tue, 12 Nov 2024 08:00:00 GMT",
-      "source": "Всеостройке.рф",
-      "description": "ТОП-10 самых неудачных жилых комплексов Московской области Всеостройке.рф"
     },
     {
       "category": "Мировая экономика",
@@ -560,6 +552,14 @@
       "published": "Tue, 14 Apr 2020 15:36:15 GMT",
       "source": "Центральный Банк России",
       "description": "Финансирование долевого строительства Центральный Банк России"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "Мировой финансовый рынок: три главных риска",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFhNX1UtYmNWa3hxTFFXN3BDNkV6ckdYd1dhZjVCT1dOMVdTaG1Sc19UaWpFc2FJZGsxUk53MWU2T3hOSzBjSlNESm1mR3hsa1REb1A3MjZzOXpBYm9kaDRWbFRDZmo1RnBRN1FKOWpOTXdXTXhIYXF4SHhZQVBaTzVDd3ZsZVdEbE84R0JHcw?oc=5",
+      "published": "Tue, 30 Jul 2019 07:00:00 GMT",
+      "source": "Econs.online",
+      "description": "Мировой финансовый рынок: три главных риска Econs.online"
     }
   ]
 }
