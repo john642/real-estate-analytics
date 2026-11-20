@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T15:44:13.730565+00:00",
+  "updated_at": "2026-11-20T00:36:46.549796+00:00",
   "items": [
+    {
+      "category": "Экономика России",
+      "title": "Повышение ключевой ставки не исключено – ЦБ РФ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXZMU3k2V1JYZlF3MGlsZ1JBOG5FeXlYa29XekVqaTloR0FCamhRaUdfNTZJZmdVR3FZeE9XWGk4ejVJamdfVWJ3OWdpWVFhWmpWazY1UGxzeTFBRmlFWjY4QnM2YjhlbU1QSGw1QmZCT0tqVmtiRzVnVzI0Q0pCeGpmb27SAUpBVV95cUxPZ0xHM3A2SkVlWV9makFVVUNVR2V5RFhFcmJiSm1CVjQzMGhtOVBObW1OYmtMM2kyZ1N3N3BOZ2hFWkF0ZEJKM3R0dw?oc=5",
+      "published": "Thu, 19 Nov 2026 15:00:02 GMT",
+      "source": "Вестник Кавказа",
+      "description": "Повышение ключевой ставки не исключено – ЦБ РФ Вестник Кавказа"
+    },
     {
       "category": "Девелоперы и продажи",
       "title": "Массовую ипотеку в России признали пройденным этапом: кто теперь сможет купить жильё со скидкой",
@@ -27,14 +35,6 @@
     },
     {
       "category": "Экономика России",
-      "title": "В ЦБ допустили повышение ставки, если инфляция не замедлится",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVlJibkcza2FEeUdjS241dWFORXJUSGo5OG1mdGszaFlhMDJGWUhMc0toY085ZWhrM2xYNlVSV3ZGSWtzRmh4SG9KQXNqbjRoVWxZbW5IdGp5Y0p1aFZDSEZtZHladW5WS2VaLThoczBFNzhxc1d2NGtNbUZSMzE1US0xZ0d4T1NwNkxFSGRsVXI2dw?oc=5",
-      "published": "Thu, 19 Nov 2026 09:45:00 GMT",
-      "source": "Эксперт",
-      "description": "В ЦБ допустили повышение ставки, если инфляция не замедлится Эксперт"
-    },
-    {
-      "category": "Экономика России",
       "title": "Банк России не исключил повышения ключевой ставки, если инфляция не замедлится",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YX05kUFVKMmNPNXRpRzcxQjdWcE9KNU9qRHFEbUIwQUtEbUU1TnhBNW9kLWM3TnVtVUN2RVlzMDY2TDlVOThUSldlczFpQjVuNm9kNE5BLS1Rb1JVM05j?oc=5",
       "published": "Thu, 19 Nov 2026 08:05:28 GMT",
@@ -48,6 +48,14 @@
       "published": "Thu, 19 Nov 2026 04:40:00 GMT",
       "source": "Клерк.ру",
       "description": "В ЦБ допустили повышение ключевой ставки при ускорении инфляции Клерк.ру"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Ипотечный бум случился из-за модели эскроу",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OMXdXSUVaWUdQQWhpcjQ4UW1vVHE1dk5sTjFBSnZWeU1iTmlwNXJ0Rmw4VEpwNDhnM1hmQVBFb3ZJUjRfMFZTV3lhOHpLUQ?oc=5",
+      "published": "Wed, 18 Nov 2026 14:09:46 GMT",
+      "source": "Smart-lab",
+      "description": "Ипотечный бум случился из-за модели эскроу Smart-lab"
     },
     {
       "category": "Девелоперы и продажи",
@@ -114,20 +122,20 @@
       "description": "Продажи квартир в новостройках в октябре сократились на 29,7% г/г, до 1,93 млн кв. м, а выручка застройщиков упала на 24,9%, до ₽406,58 млрд — Ъ Smart-Lab"
     },
     {
-      "category": "Недвижимость Москвы и МО",
-      "title": "В октябре в Московском регионе снизился спрос на новостройки и ипотеку – новости на сайте Novostroy-M.ru",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNEp5V0VhZVoxYmFWOVljYmtnUm1NXzFzNFNpX1Vpb1piYWpPZFZaVDVWdlUybXh5alk2cjdvQklfX1ZadE1CN0QwbVY1eHhIM3R3YTZnMmJGc2FZdW54aXhrdDVwOXNzeEE?oc=5",
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
-      "source": "Novostroy-M",
-      "description": "В октябре в Московском регионе снизился спрос на новостройки и ипотеку – новости на сайте Novostroy-M.ru Novostroy-M"
-    },
-    {
       "category": "Девелоперы и продажи",
       "title": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье?",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGFMTW1LUnZiQ0U5M0NJamlVTFlkaUMyU0Z2c3NyalhLS3FYeUQwRlFJVG9XdThPc0FoY3NQTm5YYXB4cDQ4UHVoV3JTYW1kT1NXcW1objdob1NBMEdhRWRGQTR3QmVDcnBMdUhWRmJxZm44Y3FuaVBHR2NBSTVPai1SN1hIbTU0UGNoTlp6SS1ZSmVDVV8yUW5BX2p3R0FKRjg1N1l5bVYxc3NmVDBqeUNETWNZNm5GVnJrQnFENA?oc=5",
       "published": "Fri, 06 Nov 2026 08:00:00 GMT",
       "source": "Финам",
       "description": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье? Финам"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "Мировой рынок золота: четыре сценария будущего",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUVPN2pfem03ajIxM2ZhdHd3bS1Dc0x3T09Lbzg0NWQzQVpHSzRSWEVLMnNqMEhMWEFzUFFIcTlXRGNZRFhNdmJpVTdoNGNtSlVFV0U2UGM2SEtEeHR1WlREYXUxMm9VeXJ6MFZKVWEzTTMtYm1XSzVYbFdrUnh5MzJUTXNBdk9adWVHbHVOUXBZVUlFNnIw?oc=5",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "source": "ECONS.ONLINE",
+      "description": "Мировой рынок золота: четыре сценария будущего ECONS.ONLINE"
     },
     {
       "category": "Экономика России",
@@ -170,6 +178,22 @@
       "description": "\"Семейная ипотека\" изменилась: как отреагировали застройщики - Недвижимость || Интерфакс Россия Интерфакс Россия"
     },
     {
+      "category": "Экономика России",
+      "title": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 11 сентября",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bUdSMWRORVplUkdQN19Wa3g5Q1VGRjRhNWd3QWJZNFBlVVQ1bUljTHVXSXIzYmtyOU9FNXlPWDJXYm9nX0ozYTJOY0JHbmpISXc?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "source": "Центральный Банк России",
+      "description": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 11 сентября Центральный Банк России"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Застройщики пере­ключились на жилье для богатых: чем это обернется для обыч­ных людей",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBweExjQ3lOUVRTYXBjM2ItZDRUajI3bWY4Y0ZqUjJCWGx5NlVkM3lnSDFhV0FRQ3RhVFRDUDR3cw?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "source": "Т—Ж",
+      "description": "Застройщики пере­ключились на жилье для богатых: чем это обернется для обыч­ных людей Т—Ж"
+    },
+    {
       "category": "Недвижимость Москвы и МО",
       "title": "Итоги августа: спад продаж новостроек привел к сокращению выручки застройщиков на 22%",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PQUR1d3ZqVTNBUnpFRnFNT1BIdzJJV2JpLWxlanI2NFczYlhMbXlxLURHeVZudkhjYXJZcmZESFdOaDg5Ulk2N2hTaW5mT3JNeU1qM2JselpsTENfV3NOVTZaYw?oc=5",
@@ -184,14 +208,6 @@
       "published": "Sun, 06 Sep 2026 07:00:00 GMT",
       "source": "SberCIB",
       "description": "Что будет с экономикой России в 2027–2029 годах: сценарии Банка России SberCIB"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Покупатель ждет падения, застройщик поднимает цены: тупик российского рынка недвижимости",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2o0Vy1STHdxUEpEU20xYWRybk9uSnJGSUVETVJoanN0a1RKYmhpNkdNaE1pT05VSXlvRzNMWlNWMk8yTTlhOXJJWlpCRTNsRklLWGhXM244cjJfSENVMlk1dW9wVGFTZy12ODJjVUhDYmNrMFg4V2YwcGQ0VXpyNzI4UVBGNjZhM3BzM2VqRnluRS1kdE1FLVJ4Sk9HZ0JNU2dVM2UwMUZ0aDg0Ynk3dGFkZ3NrZ0dETkE?oc=5",
-      "published": "Tue, 01 Sep 2026 08:38:48 GMT",
-      "source": "Новости Севастополя",
-      "description": "Покупатель ждет падения, застройщик поднимает цены: тупик российского рынка недвижимости Новости Севастополя"
     },
     {
       "category": "Девелоперы и продажи",
@@ -224,6 +240,14 @@
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Застройщики станут предоставлять рассрочку по ДДУ с учетом спецтребований – проект Минстроя Consultant.ru"
+    },
+    {
+      "category": "Экономика России",
+      "title": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 24 июля",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NTZqQ0ZfZzViemlGanlXMlNNd1hyNzdTUmRkeGcxVm9jRWZKYktGb2NCRVlKLXJZMEUwRzlzaUxyUzU5N2c3czgwSm14NTV5WUE?oc=5",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "source": "Центральный Банк России",
+      "description": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 24 июля Центральный Банк России"
     },
     {
       "category": "Экономика России",
@@ -323,27 +347,11 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
-      "title": "Цены на новостройки идут на мягкую посадку – исследование Домклик и Центра финансовой аналитики",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUJuMmtRVkxPbzl0emJFNS1scjZaNkxDUmYzcndkSTFKaWV3UURvMjZ6WXlIUERyX1VvSmNuTk83eHlzdlFHcG5icVB0ZThXR2d3VmRzLTUyY092MU5pQWFvdHdRZ3l2Q1JZOG8yYm1QOWN6N3NxaUJGSlkzd2ZKRHpTV2FkMHRXSThwTV9vcmw2bmZPRzNzcUVWZkRWa25uY1dGVVNoOEJ6UkNBS1E5RVVYRDNqOF9lRWVXUkQ0UzNtOU96LXV2Z1VOd3hnM3c?oc=5",
-      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "source": "Сбербанк",
-      "description": "Цены на новостройки идут на мягкую посадку – исследование Домклик и Центра финансовой аналитики Сбербанк"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
       "title": "Застройщики не могут распродать почти треть нового жилья",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1JkcVE3dHdFTUIzRlVoWlpLazdpTXZJM3NYTmVvVzU0T250Q0FibmVzZWxCS3FCcGZ1bjRnTUxIMUIwa1Z0ak41YUVSLTRIM2p3TXpuWG5BSUozSzdZSmN0cTVPeXFoVDFROVZTLXJ6VzVlbXZnSFZhSnIyeVdUOXUwZkNRcUxFS2laV2RWU1ItMHpPQ1E?oc=5",
       "published": "Mon, 15 Jun 2026 07:00:00 GMT",
       "source": "Московская перспектива",
       "description": "Застройщики не могут распродать почти треть нового жилья Московская перспектива"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Стоит ли покупать квартиру в 2026 году: плюсы, минусы и главные риски",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FVzdzV3h1TTVvanJQWWNfTHgyVkg2UjMxbXFwbDNCSFA3RUFjcllLZUc3cy1KRWdZSnlkaXZjUUZqUXRjWkxpNHdWTklXQ2NBYVF1UHBXVjhJMWktMFZSd3pOSUFCQQ?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "source": "Новострой-М",
-      "description": "Стоит ли покупать квартиру в 2026 году: плюсы, минусы и главные риски Новострой-М"
     },
     {
       "category": "Ипотека и регулирование",
@@ -378,20 +386,12 @@
       "description": "«Высокая ключевая ставка должна тормозить инфляцию, но цены только растут». Почему при высоком «ключе» товары дорожают Банки.ру"
     },
     {
-      "category": "Мировая экономика",
-      "title": "Парадокс успеха: почему сырьевые картели потерпели крах",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc19lT1FOZXM1VWE1ZGtjWTR3WVB2U2tvZ0Q3VDgxYXN3ZDlSLVJmY211QXhpVkNDT29CeEI4QV8zQV9FRUhieHd3X1BwX3hPZE9lbjFtUk9mbkRtbTRQdUhDdV8tMnpaa1dxZXp5eUoybDJOa3FiazhObVNUa1FtazlSNmtTMS13M0dQU1c5dzdiNzlmanZFdkZfZmNUQQ?oc=5",
-      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "source": "ECONS.ONLINE",
-      "description": "Парадокс успеха: почему сырьевые картели потерпели крах ECONS.ONLINE"
-    },
-    {
       "category": "Недвижимость Москвы и МО",
-      "title": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90cWFhRzVBanViRDY2c21hWUlLQ2pUVmttOTJ0eW5HTVFlNEpzZ1M5NDhXS3JWQlBHRWJpTEtaWGhqWXlqcXc?oc=5",
-      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "source": "Т—Ж",
-      "description": "В Москве и области резко упало число сделок с жильем. Но цены не снижа­ются Т—Ж"
+      "title": "ЖК Сердце Лыткарино",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DYzBtblVNc1hPSk0wMW1ZRzhVRjNSRDQwQldDSWEwRXNxNmpCQmxtbWJGa2drOXdkTjVyeUNCN3hUU0VJR1VFcm9mYTF3MFVzM0VXU3ZJV1NXUm5HUlQ4TVFUQ2ZGZw?oc=5",
+      "published": "Thu, 02 Apr 2026 20:37:27 GMT",
+      "source": "Домклик",
+      "description": "ЖК Сердце Лыткарино Домклик"
     },
     {
       "category": "Мировая экономика",
@@ -419,6 +419,14 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
+      "title": "ЖК «Апрелевка клаб»",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mNnhRTEdjaENMZWNncm9BNDVVckJtai1DbERwSjh4VEVkVE42LUVzRzFjVjg0TVFBb3N2b2xDWHlWekVTQU1IR0ZBTmJlcWJRa2M5MDlTYUtSNDcyVTFuUktpaWNtblU?oc=5",
+      "published": "Tue, 17 Mar 2026 11:04:32 GMT",
+      "source": "Домклик",
+      "description": "ЖК «Апрелевка клаб» Домклик"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
       "title": "Кто в Москве строит больше всего: 7 крупнейших застройщиков",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6a09jTk80cENOQXdnZnYyVzJ2RFdTOWphaXZKbXVwQTNkNno2eFdBRHZIUXo2bmFBYkZMUzJDN1QzOS1xbFlJQmV5QmZ2Q0x0eW9kY2x3?oc=5",
       "published": "Tue, 03 Mar 2026 08:00:00 GMT",
@@ -432,14 +440,6 @@
       "published": "Fri, 13 Feb 2026 08:00:00 GMT",
       "source": "Econs.online",
       "description": "Монетарная политика Китая: внутреннее и глобальное влияние Econs.online"
-    },
-    {
-      "category": "Экономика России",
-      "title": "В чем ошибся ЦБ: почему прогноз по экономике России на 2025 год не сбылся, отвечают эксперты",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yUmYzNHVNb2ZXNUNkc1RjWGg5ZklvZE9IUFoybzljNWZQUFZja0xQeDIyaXpVV2wyUEk4alZXLTRaQQ?oc=5",
-      "published": "Sat, 03 Jan 2026 08:00:00 GMT",
-      "source": "Frank Media",
-      "description": "В чем ошибся ЦБ: почему прогноз по экономике России на 2025 год не сбылся, отвечают эксперты Frank Media"
     },
     {
       "category": "Ипотека и регулирование",
@@ -456,6 +456,14 @@
       "published": "Mon, 27 Oct 2025 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Минфин сообщил о новшествах в семейной ипотеке Consultant.ru"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "2026 год будет тяжелым для рынка недвижимости России — эксперт – новости на сайте Novostroy-M.ru",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdWRzXzZ0ZGNPRGc0RXRrejRldFRnSTFFLUdFS0xoYzBKenJMVnp4MWV2aDZvZVl6Z25ueHh4MDZDb1hkMkZBUnkxMXdxcmV5QmJQbWR3R0pocy13LWtZVEwwREJiZEtsR1E?oc=5",
+      "published": "Sun, 05 Oct 2025 07:00:00 GMT",
+      "source": "Новострой-М",
+      "description": "2026 год будет тяжелым для рынка недвижимости России — эксперт – новости на сайте Novostroy-M.ru Новострой-М"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -498,20 +506,20 @@
       "description": "BIS ухудшил прогноз роста мировой экономики из-за возросшей неопределенности Интерфакс"
     },
     {
+      "category": "Недвижимость Москвы и МО",
+      "title": "ЖК Левел Лесной",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Z3FBUjZiT0w1VVNFcFo3cE81Y3BJU0EtWThjRG9jSmNGNUlJem5BVDlSaWNvSWhhcmY0YWRDcGtGQUhEUWk1VzI0X3R0b1R6NGtZMm5mUUt6ODVZOHpN?oc=5",
+      "published": "Wed, 04 Jun 2025 02:11:46 GMT",
+      "source": "Домклик",
+      "description": "ЖК Левел Лесной Домклик"
+    },
+    {
       "category": "Ипотека и регулирование",
       "title": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DbUNoTTN2cklNa0JIMzBmNkJnYlJVd1p6cFhBNUJiUkR4RUd4V3lCNHJkV0J6Q28tYlFiWFRJYXh6N1doMmpkMkl1N2hiaGpibHM5Qw?oc=5",
       "published": "Wed, 16 Apr 2025 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ Consultant.ru"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК ВОСТОК II",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00R3NaVlJzMFVwVExxeUhtMGNkUWZ3dDI0OUh3WkZzOUIwbVdpSTB0bUViUXRYdXFISngwR1FEWUtNSDk4T1hCdXRYN2FxZEU1OFJ5OGVOdF84VWs?oc=5",
-      "published": "Wed, 05 Mar 2025 15:04:36 GMT",
-      "source": "Домклик",
-      "description": "ЖК ВОСТОК II Домклик"
     },
     {
       "category": "Мировая экономика",
@@ -552,14 +560,6 @@
       "published": "Tue, 30 Jul 2019 07:00:00 GMT",
       "source": "Econs.online",
       "description": "Мировой финансовый рынок: три главных риска Econs.online"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Мировая экономика: неопределенность роста",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNR3ZOSjVwSFBUSHZFNjNLLXZtUDROdmppNFRmYkhMYUJicE8zNWlWMUV3T0tWWU5UQU1nSzRYQ1k0S0lickM1MFJjaEdrVzQ4dTY1Wi0wMHFqcW5WQTltQ1VTUkRma213TUtMLUJSaXo0VHFDYTNnLVNueTV5UDdwNV9CLTZfYUxIR1VybkczU0N0bTc3clFWNGV3Z0h6bVh4TmpuaXh1aFdwVm1ROGZfT0VrWml6X0t3S3ZKN0ltQ3VzbktzdFY1RTE2NVk0TDkyOFRPOFFuaHIyTU9TTDRqUURVMjFnclUxdHdhX1NjS1dRdGFzb2hQUk1lQW1kVjZTMnVqdGtTZmRPTUU3dnl3UDdfZ0VIS2pLUkNRZUFIM0hJcm8yMElNZ3RLNm9Jc0VaZUZObA?oc=5",
-      "published": "Mon, 25 Feb 2019 08:00:00 GMT",
-      "source": "Государственный университет управления ГУУ",
-      "description": "Мировая экономика: неопределенность роста Государственный университет управления ГУУ"
     }
   ]
 }
