@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "analysis_version": 5,
-  "updated_at": "2026-11-21T19:41:26.902046+00:00",
-  "source_updated_at": "2026-11-21T14:39:03.956351+00:00",
+  "updated_at": "2026-11-22T14:03:07.408819+00:00",
+  "source_updated_at": "2026-11-21T23:15:24.834398+00:00",
   "disclaimer": "Автоматический анализ по тексту источника; факты требуют проверки. Влияние и вывод — предположения модели.",
   "items": [
     {
@@ -82,7 +82,7 @@
       "significance_reason": "Предварительная оценка модели; требует проверки.",
       "source_url": "https://realty.ria.ru/20261120/kvs-2132872983.html",
       "analysis_status": "review",
-      "analyzed_at": "2026-11-21T19:39:39.539298+00:00"
+      "analyzed_at": "2026-11-22T13:45:58.854092+00:00"
     },
     {
       "title": "Договор аренды квартиры: что обязательно прописать в 2026 году",
@@ -134,27 +134,6 @@
       "action": "Проверить публикацию и первоисточник.",
       "significance": "не определена",
       "significance_reason": "Недостаточно данных."
-    },
-    {
-      "title": "Банк России принял решение сохранить ключевую ставку на уровне 14,00% годовых (23.10.2026)",
-      "url": "https://www.cbr.ru/press/PR/?file=23102026_133000key.htm",
-      "published": "Fri, 23 Oct 2026 13:30:00 +0300",
-      "source": "Банк России",
-      "category": "Экономика России",
-      "summary": "Краткий фрагмент источника: «Совет директоров Банка России 23 октября 2026 года принял решение сохранить ключевую ставку на уровне 14,00% годовых.»",
-      "facts": [
-        {
-          "claim": "Совет директоров Банка России 23 октября 2026 года принял решение сохранить ключевую ставку на уровне 14,00% годовых.",
-          "quote": "Совет директоров Банка России 23 октября 2026 года принял решение сохранить ключевую ставку на уровне 14,00% годовых."
-        }
-      ],
-      "impact": "Возможное влияние на рынок недвижимости: сохранение ставки может поддерживать стабильность в экономике, но также может ограничивать доступ к кредитам для покупки недвижимости.",
-      "action": "Аналитику следует проверить прогнозы Банка России по инфляции и ключевой ставке на следующем заседании Совета директоров.",
-      "significance": "средняя",
-      "significance_reason": "Предварительная оценка модели; требует проверки.",
-      "source_url": "https://www.cbr.ru/press/PR/?file=23102026_133000key.htm",
-      "analysis_status": "analyzed",
-      "analyzed_at": "2026-10-27T20:43:33.811155+00:00"
     },
     {
       "title": "Скидка на квартиру или маркетинговая ловушка: эксперты объяснили, какие акции застройщиков действительно выгодны",
@@ -277,6 +256,36 @@
       "significance_reason": "Недостаточно данных."
     },
     {
+      "title": "Более тысячи сделок с новостройками: как Казань переживает новые правила семейной ипотеки",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1FVNnF0V2pnS2Z3RHlqMk5wQXNZSkZjSldWalgwdkdKWTQ0MnVjSTl4TkNIN19sZjl6ZW9yVzc2RGowVEhqSGhIN3BfSFI4eTFsOGsxelJTM04wS3ZXMDUxdEIyRFFKSGJCTjFWRi05d0gzb043WllVbE1hQ1oyYzhmVkNKdnhXc3pBMm4zei1zSW1oc3NqMllOSmd0V25IdDVWd0Z5RnlLYVJyQ3NNTkN2dmV6dVVpRG5PQUdISFpIZ080aWc?oc=5",
+      "published": "Wed, 18 Nov 2026 12:36:00 GMT",
+      "source": "Урбан Медиа",
+      "category": "Девелоперы и продажи",
+      "analysis_status": "insufficient",
+      "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
+      "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
+      "facts": [],
+      "impact": "Недостаточно данных для оценки.",
+      "action": "Проверить публикацию и первоисточник.",
+      "significance": "не определена",
+      "significance_reason": "Недостаточно данных."
+    },
+    {
+      "title": "Как дорогая ипотека меняет спрос на новостройки",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OV1JsLUpQTzBsUnBqNm9OYWZzX0tmd3EwWERpMTYtVUt2RDM2X0g1TW9kbGVYLUZPaDNIVWp3QmVMRzJja1Z0ZFhGek8yLUktV0NhN0RubXItd2swcVBZNGNEODhiQkhmOUFTUkhlQ3BXRktLZ2N3SktuRQ?oc=5",
+      "published": "Wed, 18 Nov 2026 07:00:00 GMT",
+      "source": "Эксперт",
+      "category": "Девелоперы и продажи",
+      "analysis_status": "insufficient",
+      "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
+      "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
+      "facts": [],
+      "impact": "Недостаточно данных для оценки.",
+      "action": "Проверить публикацию и первоисточник.",
+      "significance": "не определена",
+      "significance_reason": "Недостаточно данных."
+    },
+    {
       "title": "Цены на новостройки почти встали: какие скидки готовят застройщики и что будет с рынком недвижимости",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRC1Ga3BOZGczZWR1cHBfUFZfRW1yRU5OcGNYWllDWTYzbjRvQnRfc1hKZGNEY19aZ2RoWGNhNE0wYmlFNGVOX3lIck5SRWRuYmxzcFprakx0Zjdvd3NSTEdTTk1VSUNTUU1yeC1Pb185NGF1eVlLNkh4cVpSNjRuWEI3VG9lYjFXeWYxaEpaSE1WbnIyU1BrY0dVajFRSGNDQktXSTNDU3MyOXZ3Y2FLallMRW5tSGhQUlRVaTB3blFWWi0yMFpYRzJISC13cnFMa1dYUmFDYw?oc=5",
       "published": "Wed, 18 Nov 2026 07:00:00 GMT",
@@ -352,36 +361,6 @@
       "significance_reason": "Недостаточно данных."
     },
     {
-      "title": "У кого купить квартиру: рейтинг крупнейших застройщиков — 2026",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SWpTSWZ4RjgwbTBiVE14ZHRIbU9KQ0tUaThFZ1pjZk5jTExmNk43bk5CVU5fTXlUNC02aFluUS12LVZYeDB4ZThacVJvZXFfMGtKUzZLQ2h2dHdCQlFTbVh4cm94bHp2cEtzT213?oc=5",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "category": "Недвижимость Москвы и МО",
-      "analysis_status": "insufficient",
-      "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
-      "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
-      "facts": [],
-      "impact": "Недостаточно данных для оценки.",
-      "action": "Проверить публикацию и первоисточник.",
-      "significance": "не определена",
-      "significance_reason": "Недостаточно данных."
-    },
-    {
-      "title": "Доля нераспроданных квартир в готовых новостройках Москвы и области приблизилась к 20%",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhak4yc251TUt2bzBaQ3JUVnJnRl9QR1J3NW1TX2ttVWVsWnZkS3FDR1Q0emEyRjZ0Qk1Tc0k3Rmc5THA4VExRR3AwaGZudGdQUGRvNjB0Nk9GRTNLWWM1d0xYZnlqVXpoYW9CTXpuUDI?oc=5",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "category": "Недвижимость Москвы и МО",
-      "analysis_status": "insufficient",
-      "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
-      "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
-      "facts": [],
-      "impact": "Недостаточно данных для оценки.",
-      "action": "Проверить публикацию и первоисточник.",
-      "significance": "не определена",
-      "significance_reason": "Недостаточно данных."
-    },
-    {
       "title": "\"Семейная ипотека\" изменилась: как отреагировали застройщики - Недвижимость || Интерфакс Россия",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVVdyUWpPT2pJUldiZTBYN2Iza25FX3g5anZ4V2hjcHB4bktmZ0lGMUhrd1N3bnZuRVRGcGNqellLS2k2cTN5aVE1R2ZaUVN1MWdjVE9MajZxdHhkakpCLVJLNWxmVXgyNEx2S0Vqc0k5UVdsOXB6a3FWRko4TkFfYWx6cnZGRU92cl93YTExcEN4OFl6dkgzeEJrQm1oaER0X1dmUDNBdzhPN3JD?oc=5",
       "published": "Thu, 24 Sep 2026 07:00:00 GMT",
@@ -402,6 +381,21 @@
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "source": "Центральный Банк России",
       "category": "Экономика России",
+      "analysis_status": "insufficient",
+      "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
+      "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
+      "facts": [],
+      "impact": "Недостаточно данных для оценки.",
+      "action": "Проверить публикацию и первоисточник.",
+      "significance": "не определена",
+      "significance_reason": "Недостаточно данных."
+    },
+    {
+      "title": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSDFPaGtZZkVVMldLVW5pS1kwT05MYzlBUGdnV0xOM05SamhOMnpQelNXdl9ZbUxRQ0FjTmFIZ1RHbHhTWE92RW1OdEZ5bUxoUkc1TnpIZnA3b3h2X3preG1ZQ0VqNzNzdkE?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "source": "Novostroy-M",
+      "category": "Недвижимость Москвы и МО",
       "analysis_status": "insufficient",
       "analysis_reason": "Полный текст недоступен или модель не смогла подтвердить факты.",
       "summary": "Доступен только заголовок или неполный материал. Для вывода откройте источник.",
