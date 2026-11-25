@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-25T02:28:31.011261+00:00",
+  "updated_at": "2026-11-25T17:13:49.086332+00:00",
   "items": [
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Массовую ипотеку в России признали пройденным этапом: кто теперь сможет купить жильё со скидкой",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXdHaWlENWQtVGdkSWdzeW5XTUw1Y0F6TEhJYkpwOERJSlg5OEE4NFJoaG1pLUt0aDJ3eFhKVWxFU3JwekZqdTd0aVdkOHgtS3BLcmpUOEVETDJPcEpxTnpPTWFzRjFTSTBXT2NuRHFVbUFmSkQtbmZ1VlFXY0lPWWNQblJhTzJtZlpLZWc2ZlhPME1XZFJkVzdSOVdPYjU1X0diczhzMDN1VEtaazZNVy1FeFZEbXhvNDZzOHdDWVY?oc=5",
+      "published": "Wed, 25 Nov 2026 11:53:17 GMT",
+      "source": "Новости Севастополя",
+      "description": "Массовую ипотеку в России признали пройденным этапом: кто теперь сможет купить жильё со скидкой Новости Севастополя"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "XI Международный форум Финансового университета: новая мировая экономика и финансовый суверенитет России",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTTR5NVAyd1RHMWh5Z2ptaGtFMTZ3U3hQSDkwY0M4WWl4QXdMbExnZVMzcEtHbVhMNVJ5NTNyRUR4ZXBzVGlneGtDZHN1cWgzSnpsbDZSaHB4Z1AzajJYTXJCb05oSl9rMVhxZmV4d2tMZ0FUTVNnWjBTREpBVHRrVVdwejBvNC1ZanIwY0NVbHlaLV82aGhHa2JueWR2bGEzYUxPRlRXMkJWOXdveDFDNnNxTEZKUFhhZlpBRHNndzZocjFqWHU4OUIyWEhSZG5yeS1sR2lnVnN4RHdCNVVmYUJ6VHR5NXJaNURCeWNB?oc=5",
+      "published": "Wed, 25 Nov 2026 11:05:23 GMT",
+      "source": "Ведомости",
+      "description": "XI Международный форум Финансового университета: новая мировая экономика и финансовый суверенитет России Ведомости"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Налог на нераспроданные квартиры в Татарстане с 2027 года: ставка, льготы, реакция застройщиков",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWVpUTNRaUpDbkVTS0dJVE85V0NJc09PX01GTXBZbGtsZXdBQllKS3E2c3VsVkdBaTlZMVZHdm96Y3RoZmJxZlAtZVlONmhzNFhJNGI2c3FPQlBBbVpYLWpfdWdHQXRSX0FfRkZHQlBiVjVSWS1nMHo5LWVlRmV6d05rU1dLZE8zSVo2cm1pVWhobURwbkRHLS1hcVFqSnQ2RGIyZGo4bjZTSm8xZURveWZ1cWNGRjRCWWQ4Vm15UVJHR2hMTk1YSTJoRG9LdHM1eU1sWV9R?oc=5",
+      "published": "Wed, 25 Nov 2026 10:30:00 GMT",
+      "source": "Финансы Mail",
+      "description": "Налог на нераспроданные квартиры в Татарстане с 2027 года: ставка, льготы, реакция застройщиков Финансы Mail"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Новостройки под льготную ипотеку могут остаться без покупателей",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUktdkRDOC1WZnljVU9MaFZJQ3phUFpnQ0hRc2lCVWpqczIwejd1cng0bnlZaVREOHNFQXVUMERiZV9YZmdEWXR2X3BMZTgyUVdUczk3VzFRa0VkbTRKWVA4UUUzM3htNXlGWVFDenpnOGFoRUw2LWJIOEpBUGJmTmpEYkdYUXJORjJTYURuSDhsMnBOR09jQndBb183WnM?oc=5",
+      "published": "Wed, 25 Nov 2026 09:35:38 GMT",
+      "source": "Реальный Тагил",
+      "description": "Новостройки под льготную ипотеку могут остаться без покупателей Реальный Тагил"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "ГЛАВНЫЙ ЭКОНОМИСТ SWEDBANK Инфляция ускоряется, ставки поднимаются, но экономика все равно продолжает расти",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQXzY1RThsTEpDS2EzTGV4RE5jOThQNzhnMDEyYXdhVUU5X0owQ3BLTk53MWVBX2cwOGZSdGE2Z21paC1qS0pJOFlTd1BsSVRzLW9XNnczZURaSC1pM24wcFBuSllIaHBNYmVERTZQUkpNa2pJd1BHYndrWUJrZWVCNHVEZzZmU0FkUVNZaEJkRlpRNnFNZWdWaTNuQ0w0SS0yZXBnRlpLTzJJUXg5aDFFcDIwN1Z4alR0OE12RC14RnpZTTFldUdtb3lmTklKOXBPYXRHWGNKMW85NlhiZXc?oc=5",
+      "published": "Wed, 25 Nov 2026 08:03:03 GMT",
+      "source": "Rus.Postimees.ee",
+      "description": "ГЛАВНЫЙ ЭКОНОМИСТ SWEDBANK Инфляция ускоряется, ставки поднимаются, но экономика все равно продолжает расти Rus.Postimees.ee"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Барнаульский девелопер запустил месяц выгодных акций на покупку новостроек",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DU05pbnFmX1FyUWIxWXhBRHRkeHA0QXZBSloyYUNHQVhlQnM3MVZPT29RNzhSVjNucHVYVnE4Z0FpVEl3TGRGcTFQYw?oc=5",
+      "published": "Wed, 25 Nov 2026 06:11:00 GMT",
+      "source": "Банкфакс",
+      "description": "Барнаульский девелопер запустил месяц выгодных акций на покупку новостроек Банкфакс"
+    },
+    {
+      "category": "Мировая экономика",
+      "title": "Внешние экономические шоки и эволюция валютной политики Казахстана",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVVBUb2Q5QlBaS2k2TXFKOGxlQms0Nks5d3BxWjBXWUJYb3hsVV9USU5PR3pkdHhJQVNSMWhFRW9ndlMtLUNXSjNFdVZUSzU2SEp5R2NVNEtjbFI4TEY4Nk1FTEpSM1NsU0V1Wm5OSENWa0ZHZm5fdkQySldXNS01TnRsQVVnVUllaGNsbi1Xb3Eyd3VzR01hR3FQSVExWXJybGhHYnpVdnhFaWY1YXZ1NmhRRTI?oc=5",
+      "published": "Wed, 25 Nov 2026 03:41:00 GMT",
+      "source": "National Business",
+      "description": "Внешние экономические шоки и эволюция валютной политики Казахстана National Business"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "В Москве прогнозируют скидки на новостройки до 10 процентов перед Новым годом",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nN05feGxEdnEtblhQSzIyV25sWE1uTWVPS2xvN0dEbm5xYndrS203TGI2TEM5Qjh1S0ZYY3l5X3kzaE5HcGx1Q01FT0VfZkRsNFJjejNDdmZDNVV1elkxdXZud2JTZ2xCZGc?oc=5",
+      "published": "Tue, 24 Nov 2026 22:24:57 GMT",
+      "source": "Newsroom24",
+      "description": "В Москве прогнозируют скидки на новостройки до 10 процентов перед Новым годом Newsroom24"
+    },
     {
       "category": "Мировая экономика",
       "title": "Слабые стороны, лежащие в основе устойчивости мировой экономики.",
@@ -26,6 +90,22 @@
       "description": "Мировая экономика на следующей неделе: Обратите внимание на 5 важных моментов IDNFinancials"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "Рынок новостроек рухнул. Что не так с облигациями застройщиков?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkZWT3gzZE8wMlJmR3k1dDZMd1poekxuMG5Qd3hMdmMyUUc5dnNkeGtKTEp1Q195UDk1WmhDTzk2TU5pUWxHYm1fbnhvQ1pXV0o3ZGhmd1Vqa21qMFJOaENPNGwtaE5HQnE3aUxqWHgzb3EtcG9wenZabFg1WlJ1OTRpQkhhblFGQ2dKcE8wa3hGUWhwSlJqbWM4eDM5UQ?oc=5",
+      "published": "Sun, 22 Nov 2026 01:27:59 GMT",
+      "source": "Marketpower.pro",
+      "description": "Рынок новостроек рухнул. Что не так с облигациями застройщиков? Marketpower.pro"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Продажи квартир в новостройках рухнули: означает ли это сезон начала больших скидок",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ucU9lMkZDUHk5Y3NoZ1g3M3JTYkRpYl9BdnB5c05mbFdTYWVwdDJvOHpMN0JWWmFkdWVjUzdxdEpyOWZV?oc=5",
+      "published": "Thu, 19 Nov 2026 14:13:30 GMT",
+      "source": "Т—Ж",
+      "description": "Продажи квартир в новостройках рухнули: означает ли это сезон начала больших скидок Т—Ж"
+    },
+    {
       "category": "Мировая экономика",
       "title": "ИИ поддержит мировую экономику в 2027 году, но может стать источником новых рисков — прогноз GS",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MlR5Ui14dF9ZcEtxNWdDYjh0YkdWM0lqUmlLeTY0RkdWbWFQUW9JSXNVTFlfVmx3MV9YVnQ4NzJFckhuYU1iRUhhZUswMW9KRHQ5Q2NFRXdhR0JoYmNBdFlsQjYzOWM?oc=5",
@@ -42,6 +122,30 @@
       "description": "Страхование вкладов и счетов эскроу: поправки об увеличении лимитов возмещения прошли третье чтение Consultant.ru"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "Более тысячи сделок с новостройками: как Казань переживает новые правила семейной ипотеки",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1FVNnF0V2pnS2Z3RHlqMk5wQXNZSkZjSldWalgwdkdKWTQ0MnVjSTl4TkNIN19sZjl6ZW9yVzc2RGowVEhqSGhIN3BfSFI4eTFsOGsxelJTM04wS3ZXMDUxdEIyRFFKSGJCTjFWRi05d0gzb043WllVbE1hQ1oyYzhmVkNKdnhXc3pBMm4zei1zSW1oc3NqMllOSmd0V25IdDVWd0Z5RnlLYVJyQ3NNTkN2dmV6dVVpRG5PQUdISFpIZ080aWc?oc=5",
+      "published": "Wed, 18 Nov 2026 12:36:00 GMT",
+      "source": "Урбан Медиа",
+      "description": "Более тысячи сделок с новостройками: как Казань переживает новые правила семейной ипотеки Урбан Медиа"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Как дорогая ипотека меняет спрос на новостройки",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OV1JsLUpQTzBsUnBqNm9OYWZzX0tmd3EwWERpMTYtVUt2RDM2X0g1TW9kbGVYLUZPaDNIVWp3QmVMRzJja1Z0ZFhGek8yLUktV0NhN0RubXItd2swcVBZNGNEODhiQkhmOUFTUkhlQ3BXRktLZ2N3SktuRQ?oc=5",
+      "published": "Wed, 18 Nov 2026 07:00:00 GMT",
+      "source": "Эксперт",
+      "description": "Как дорогая ипотека меняет спрос на новостройки Эксперт"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Продажи квартир в новостройках в октябре сократились на 29,7% г/г, до 1,93 млн кв. м, а выручка застройщиков упала на 24,9%, до ₽406,58 млрд — Ъ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4TUd3X3pNRlpKSlItX0tKQmZJdFlPdnFqRkZHVlBxVUJESHdoYldqOUlTNDFvM3ZNWU5HZzZjbDVhNFNiRlNGdWJGYzB2bmJFMHFRMw?oc=5",
+      "published": "Mon, 16 Nov 2026 06:46:00 GMT",
+      "source": "Smart-lab",
+      "description": "Продажи квартир в новостройках в октябре сократились на 29,7% г/г, до 1,93 млн кв. м, а выручка застройщиков упала на 24,9%, до ₽406,58 млрд — Ъ Smart-lab"
+    },
+    {
       "category": "Мировая экономика",
       "title": "Глава Агентства выступила на Конгрессе финансистов Казахстана",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSzNRcWlISTR6ZlNzRE9vY0VfZUxXYnl0RjhldUg1bElLWUhwazBqeFliZG00bWVCS2kwaS1odVg2bjU2SS1qYmRfVXhIY1A4RmdiY0lSNVhDOG9YVXY4ZDFGN1BnMXp5NGpCUGtuT0o?oc=5",
@@ -50,12 +154,52 @@
       "description": "Глава Агентства выступила на Конгрессе финансистов Казахстана GOV.KZ"
     },
     {
+      "category": "Девелоперы и продажи",
+      "title": "Что будет с ценами на новостройки после изменения семейной ипотеки",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIM0ZxalFPQzNZVFJvdWtObURKWE1CS1ZiLTFuTnhFWGhncktxQ1hFM0NaOXA2S0g0WHVxSVFSR1FWakk3M2IzX1BvdF9iQUtUN0w3eXJ1bzJpbjNxVzVsQlpoTQ?oc=5",
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "source": "Novostroy-M",
+      "description": "Что будет с ценами на новостройки после изменения семейной ипотеки Novostroy-M"
+    },
+    {
       "category": "Ипотека и регулирование",
       "title": "Семейная ипотека и мошенники: главные темы недели",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RQzJBRXpMVzUtd3dNcVZ2c0h1eWFlejR2QXg3bmZIVzhPSE9vMGFCbzVWZnd0ZGdfNzZyNVowSXJCeXBnME95VWhzM1FfTGJoNHRB?oc=5",
       "published": "Fri, 13 Nov 2026 08:00:00 GMT",
       "source": "Sostav.ru",
       "description": "Семейная ипотека и мошенники: главные темы недели Sostav.ru"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Покупка квартиры бизнес-класса в Москве в 2026 году: варианты ипотеки и рассрочки",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbXp4TWN1aVdNcGh6S1c2R2JnTl9kNU1pZDc3ejNXQUZzZ2VOY3Q3X2JHLVBzZUZCSVloZWo0TUthenFoT193N1FpQUhfb2NqWlJ3?oc=5",
+      "published": "Tue, 10 Nov 2026 14:20:39 GMT",
+      "source": "Sostav.ru",
+      "description": "Покупка квартиры бизнес-класса в Москве в 2026 году: варианты ипотеки и рассрочки Sostav.ru"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Семейная ипотека стала дороже. Как застройщики удерживают спрос на новостройки",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Wd1RqM1N4c3NMUmhFWU5HRjJlazJ5QnhOQXZmS05RdzVBVHdZWUZyWHQzUDZsNG1KalEwN3k1UE83SDJCODUyejRMWllNaUdpQURRZXJLV2tyMktPbmx3?oc=5",
+      "published": "Tue, 10 Nov 2026 06:24:46 GMT",
+      "source": "66.ру",
+      "description": "Семейная ипотека стала дороже. Как застройщики удерживают спрос на новостройки 66.ру"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "Ипотека Сбербанка сократилась на 52%, продажи новостроек в Москве и области — на 37%: что происходит на рынке жилья",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM3lQT3lDNUZBREVydFhOVDdHZzNuME0xWFY3RUNyQU5nTndYXzNWMkV5WUJhVjBLcDUxcmlkXy1jcXgzbU9DMGFZTVZxdnEzYkFEYUxjbHZJbkRod0prNG03VjlGMnZPZFZxaTNiZ1I1Y0xSUkU5M0Zqb21wTEFibVE1S1VYMVc4WXlKTXpiLUswTUlDNm8xcTdJdVQ1S3dwMVA0dzF6X3R6cG5qeXhlN2NoQmwyTHYxNEdqWlNPclVjTUFlRmh1MWgtWkVPNE5IQzl5RVZvZEFNWjVFeFo5dA?oc=5",
+      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "source": "Всеостройке.рф",
+      "description": "Ипотека Сбербанка сократилась на 52%, продажи новостроек в Москве и области — на 37%: что происходит на рынке жилья Всеостройке.рф"
+    },
+    {
+      "category": "Девелоперы и продажи",
+      "title": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье?",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGFMTW1LUnZiQ0U5M0NJamlVTFlkaUMyU0Z2c3NyalhLS3FYeUQwRlFJVG9XdThPc0FoY3NQTm5YYXB4cDQ4UHVoV3JTYW1kT1NXcW1objdob1NBMEdhRWRGQTR3QmVDcnBMdUhWRmJxZm44Y3FuaVBHR2NBSTVPai1SN1hIbTU0UGNoTlp6SS1ZSmVDVV8yUW5BX2p3R0FKRjg1N1l5bVYxc3NmVDBqeUNETWNZNm5GVnJrQnFENA?oc=5",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "source": "Финам",
+      "description": "У застройщиков проблемы: стоит ли ожидать снижения цен на жилье? Финам"
     },
     {
       "category": "Мировая экономика",
@@ -82,20 +226,20 @@
       "description": "МВФ: ИИ-пузырь может лопнуть, попутно нанеся огромный ущерб всей мировой экономике ServerNews"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "Срок вдвое меньше, платеж вдвое больше: как реформа семейной ипотеки изменит рынок недвижимости",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHQ2aDhCWFJjTDlTaXB0MjBfTGdpeXdnZkY0ZlRtelZjZ3hNbnZaOFVaUkhVYmJiWHNGT1hRcGYzOXdKTEVNQ1pBZkxPXzVWMHBueGVXT3A0UF9jLUZLTEVkSm5kRWZMZTlTX3I3SVhNUzFvUVBIT0Q5QmpkSnZmbnMzUnlKUXhCMnZhRS1FdXR0LWFvU3VpRURveDBER2F0SDhudHZnXzZvRC1LNVNFYjdaVjdtcWw5dUZSZEU2U0dXNHdpVTZBazYxTzd4dw?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "source": "Эксперт ЮГ",
-      "description": "Срок вдвое меньше, платеж вдвое больше: как реформа семейной ипотеки изменит рынок недвижимости Эксперт ЮГ"
+      "category": "Недвижимость Москвы и МО",
+      "title": "Определены самые покупаемые новостройки Москвы и Подмосковья в сентябре",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zRWVMZWtLM3p1MEE4WE9hYnpmSHluN0Qzd2RjSGZNWHhuTUpsYjNyUE8taHd2T3Z2aHhlNXZyOVhxMkNuMlFENmcyeXJjNHU4TkY1aEhyb0VrNVZUYUpDazlZUTFJSEFZVXVBdmNyUzg?oc=5",
+      "published": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "source": "Novostroy-M",
+      "description": "Определены самые покупаемые новостройки Москвы и Подмосковья в сентябре Novostroy-M"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "Продажи новостроек рухнули: застройщики начали снижать цены",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHQ0dDVfbnF0QXktSEhoLXE1S0J5YThEZWdNQU9wUEFKUnFFS2k1eWFjSEswMmZQVnlqNFcwc251Wi1HNFNEaG1VZ1lOQ3ZvU3YxRW9IQlRCeV9jdFBwZGduTVF3U0U4Y1EtZlo4eGZhcm9uX3BwUmR0bk1meGx0OTY2Y3UycXFaUTZvdU1BNEFmT25RRzIzWGlRVkRPMnJLSkhGaENfbUtra1p4Rjc0?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "source": "rosbalt.ru",
-      "description": "Продажи новостроек рухнули: застройщики начали снижать цены rosbalt.ru"
+      "category": "Недвижимость Москвы и МО",
+      "title": "Московские застройщики сократили выручку от продаж жилья на 10%",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzJrbUYyeUxKekN5eHI2M3U1T0ZzbE13MXhoX3dfeHRBUXNqek9YaWdPeFVWUDNINXBBU1dsTmFycGlnbXVqSDlGckZIQUs5MGlCa0NkTWdKR3c1NWRqUjE1QUJKdnVyMkl4Ukw4b1pXZlhfX0V6d1BCREtYNUZuXzJXWng4cDkyMmw2YWhqcEk0d1dqeElDTWJ0NUliV24yQkVoTHF0aUtsSDNq?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "Финансы Mail",
+      "description": "Московские застройщики сократили выручку от продаж жилья на 10% Финансы Mail"
     },
     {
       "category": "Мировая экономика",
@@ -107,19 +251,19 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
+      "title": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5%",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGFiMkZxRkxJXzVkd29VYkpwY3NYV2JycVF3a0o3WlprU3VybGxSeUF5Y0VCSWpnWVRUcjVpRE0zQnB4V2VUNGs0X0RiU29pS1NZVER4SmVrSVdFMDNRNVdKWFY3b1B3eFNQcEFRX3Q5V1BRMTh5M1pXTW5qZ3hHSGFQdzZpZWhfSjZPZ2xTWjFKOVJ6MVpBa2x1WmFac2J6YzRwdTdzeEJmYWZic3BfZGpjSkg1MXFUbWZqZnVsMll5WUgyZ1Roekg3RF94YWF2bGc?oc=5",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "Строительство.RU",
+      "description": "Предложение квартир в полностью сданных новостройках Московского региона достигло рекордных 19,5% Строительство.RU"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
       "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в сентябре",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hT3FrcFRSQUVNNlMwWjlaVEE2NXdhQnBlNHFMdy1qcUVvVU12a0lJTVp3UXVGSGw0TGZxbDdpaDBCbzNmbGhHNnhEXzhTZXdWTGhvREZWYjVwYzIxSFVNM05nLVZjNzFCNjRWOVRlSTRLdw?oc=5",
       "published": "Wed, 30 Sep 2026 07:00:00 GMT",
       "source": "Novostroy-M",
       "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в сентябре Novostroy-M"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "\"Семейная ипотека\" изменилась: как отреагировали застройщики - Недвижимость || Интерфакс Россия",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVVdyUWpPT2pJUldiZTBYN2Iza25FX3g5anZ4V2hjcHB4bktmZ0lGMUhrd1N3bnZuRVRGcGNqellLS2k2cTN5aVE1R2ZaUVN1MWdjVE9MajZxdHhkakpCLVJLNWxmVXgyNEx2S0Vqc0k5UVdsOXB6a3FWRko4TkFfYWx6cnZGRU92cl93YTExcEN4OFl6dkgzeEJrQm1oaER0X1dmUDNBdzhPN3JD?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "source": "Интерфакс Россия",
-      "description": "\"Семейная ипотека\" изменилась: как отреагировали застройщики - Недвижимость || Интерфакс Россия Интерфакс Россия"
     },
     {
       "category": "Экономика России",
@@ -128,14 +272,6 @@
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "source": "Центральный Банк России",
       "description": "Банк России публикует Резюме обсуждения ключевой ставки по итогам заседания 11 сентября Центральный Банк России"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSDFPaGtZZkVVMldLVW5pS1kwT05MYzlBUGdnV0xOM05SamhOMnpQelNXdl9ZbUxRQ0FjTmFIZ1RHbHhTWE92RW1OdEZ5bUxoUkc1TnpIZnA3b3h2X3preG1ZQ0VqNzNzdkE?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "description": "ЖК «Родные кварталы»: для всех, кто ищет квартиру в экологичной локации Novostroy-M"
     },
     {
       "category": "Недвижимость Москвы и МО",
@@ -162,12 +298,12 @@
       "description": "Что будет с экономикой России в 2027–2029 годах: сценарии Банка России SberCIB"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "Что будет с ценами на новостройки после изменений Семейной ипотеки осенью – вырастут ли цены на квартиры из-за изменений в условиях ипотеки для семей с детьми",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTVIOFVGME5oU1FIcFA1b1NUOWhDV3NyYXR2cVBKMzZkbzk0d0VuendSblFodHE5ZU5Jci1wVHF3VWpGX2t0clFSU3M4ckNrYjJRN1M4b2hLNFNXVkd4ZUY0UVQ0VGtKSlNjUmFKZjJZSG9ZdExKUEpyTTBWNDBJemtSb2FuSFk5YktYQ2JRbnh0Ukg3cmRUY1gxVFE5LVFpS1lOVTlNd1bSAa4BQVVfeXFMT2N5aVVVU05WTDhRcU9yMURYb2J2bmhyRlMyMVBuTlM0d1huN21jbmdfMnhzRXFRWnRLM29nTnFEdGhiVE1kWWVoeVdkdDNTWnFFRzFoNE4yMWx5TXhjTkxVbG1ZbVhHNnBacktlTEtwcjZEV21mMkZFSGNNRS03bWVkZ0pkZW43QWZlRDlMQjBCNG12OWFPeFhoYkd5bml3NXdYbEJ3RUJpOVlkUkhn?oc=5",
+      "category": "Недвижимость Москвы и МО",
+      "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в августе",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16VTRLSEQ4MndBVEZma255a0xLWlYwdUFWRnVQZ1V0cDBucEZnNEJVTTh3U3VCQkFDTVdVSlNRRXdkUEdRN0p4TURVWWtacXBIY1VoNXRRWlFYajR3bkI5U3hHUHRTYjd0cHRNVWZjVQ?oc=5",
       "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Что будет с ценами на новостройки после изменений Семейной ипотеки осенью – вырастут ли цены на квартиры из-за изменений в условиях ипотеки для семей с детьми Журнал Домклик"
+      "source": "Novostroy-M",
+      "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в августе Novostroy-M"
     },
     {
       "category": "Экономика России",
@@ -176,14 +312,6 @@
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
       "source": "Т—Ж",
       "description": "Какой будет инфляция и ключевая ставка в ближайшие три года: четыре сценария ЦБ Т—Ж"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Как оформить квартиру в собственность в новостройке в 2026 году",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTBaZ2k5Vm5WZmZxS00xZVpQbTBMRFFLcGxBaGN3V0RtMEVQVUR4c1IxeHNFWjNFd0F1V1JidHVyWnpvOHdLYTNJRHBVSnZsS0RwNHA3MnFHZEFTajFCRmRGQ3NYUmZ4M0xreE9LZWhmMlBNV0xiUUg1X0ZhX1FTZGZ3SjlwTDNTcUlZU2xDRnJFczdaZkpzb2NMRDVHUdIBowFBVV95cUxNRVdfdEtuTHZFVDg2eWE2R3Fpbjg3a0M3dnBOTDlFa0xmdnRVQjdDbUkxOGtWbWlRbTRndWQ4eUlQWHR5Z2RobFZsNkhxd1RCUGlHdkk1NW9oQWwwQkpRMS1SVTUxLXMtdkM4SGE0TDlRVkg4N0cta1lXYWFoMGpkX2VEd2F6N2pCbjRNWG92cU9pOUJYUVRmSzdDUllDQjVXRkJr?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Как оформить квартиру в собственность в новостройке в 2026 году Журнал Домклик"
     },
     {
       "category": "Ипотека и регулирование",
@@ -200,6 +328,22 @@
       "published": "Sat, 15 Aug 2026 07:00:00 GMT",
       "source": "Интерфакс",
       "description": "Создается новая финансовая карта мира? Интерфакс"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "Объем квартир с отделкой white box в Московской области рухнул на 46%",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0FCM3dzQnpveFNCYTgyZ3BsWmNUODR1ZzFneTk4ZDlwOEpfb2RncFRhMkZ2c2prdFp2TUhzckNQWHJwcGFDLXlwM3A2UHZrYjdtY3ltWnlIQ1ZjVFlIUHlzVjR1VkJHM3RQdmlma21ENlJWRldHNjNoMG9CRFZ3c2N1VjdSeTMyenYzdkdYSU9kdkRwWU9DWC1mdlFQeW5SVlhQMnd3?oc=5",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "source": "Строительная газета",
+      "description": "Объем квартир с отделкой white box в Московской области рухнул на 46% Строительная газета"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "Итоги июля: спрос на новостройки стабилизировался, но в «старой» Москве резко снизилась доля ипотеки",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQm1PMkR5cE1HdTU2YnVGNDRITDBHREEwZ1FMWkFadEgtWlJ4R3VpT1NxY3dZZWpURWdRYTNEWUZibk1Vdkg5d0lWRTFJZ0xiSUZKSkxZcTVScFh1eW5iMlB2SVd6UQ?oc=5",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Novostroy-M",
+      "description": "Итоги июля: спрос на новостройки стабилизировался, но в «старой» Москве резко снизилась доля ипотеки Novostroy-M"
     },
     {
       "category": "Экономика России",
@@ -224,6 +368,14 @@
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "Московская перспектива",
       "description": "Застройщики увеличили запуск новых проектов, несмотря на сокращение строительства в Москве Московская перспектива"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
+      "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в июле",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1acVpSVnVySWVpRTNqbnNnTmFCNGMyekRxNG4tUkd3QWszR3VrQmhzaW14Q2t4Q2JnaFpCbnBuOFhPcncxNzlXWEtvY3hSRDJKUGRzb0lqZ3FsY210eWl5ZEZPeUhwLUo3X2ZGOHBjdTFMZw?oc=5",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "source": "Novostroy-M",
+      "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в июле Novostroy-M"
     },
     {
       "category": "Мировая экономика",
@@ -259,6 +411,14 @@
     },
     {
       "category": "Недвижимость Москвы и МО",
+      "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в июне",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYms4Qm5qamt3V04wQXV0WGZISElXV05CenNXUWs5eGlPQTRDQ05NbEJsR3Y1bExpMjJFcnpadE1LUjF6aXV6akYySnZlNzVUeUthQXNfNFQwWW5zVU1OQVYtNUlOQ08wYm91bg?oc=5",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "source": "Novostroy-M",
+      "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в июне Novostroy-M"
+    },
+    {
+      "category": "Недвижимость Москвы и МО",
       "title": "ЖК \"Гранель Аникеевский\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BUTJMMDNIRjNsTzQwcndpTE9Jcy05elhHTzFWaWs3QzFqbTBtblpRNUt1enQ4V2t3TVJRODVyT1VEVVhEaG9Na3lfVE95b1JsNFVDdlhoM3B2bHJxcXdnRmdzYktuMXpHMktMNg?oc=5",
       "published": "Mon, 29 Jun 2026 14:29:04 GMT",
@@ -266,20 +426,20 @@
       "description": "ЖК \"Гранель Аникеевский\" Домклик"
     },
     {
+      "category": "Недвижимость Москвы и МО",
+      "title": "ЖК \"Гранель Живописный\"",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdWVyVzNkMUhaOVZCMWdBX1hsWHdPMWZBYkZPQmpnQmg2VzdIUUgwTTJGODl2MTh0RW9uX09KUUpXZF9LWTRFLWMtQVhzNnlCOVNtS3hhS3RuNGZsYzlhN1BpQmgyMHFRWl91Mw?oc=5",
+      "published": "Mon, 29 Jun 2026 14:03:07 GMT",
+      "source": "Домклик",
+      "description": "ЖК \"Гранель Живописный\" Домклик"
+    },
+    {
       "category": "Мировая экономика",
-      "title": "BIS НАЗВАЛ ГЛАВНЫЕ БОЛЕВЫЕ ТОЧКИ МИРОВОЙ ЭКОНОМИКИ",
+      "title": "BIS назвал главные болевые точки мировой экономики",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LelhHY1pOb3FmOGpSVENmUm4waEpBazBNRm5GeWVUZTAxUXJYajlLd2JuWmlNR2JraEx3OFlHQVZBV19XU0diRU9feGNpRUFPZ2FPLXF6c0JYQllnYmEtYlRHSjh1RU9TaEdN?oc=5",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
       "source": "The Tenge",
-      "description": "BIS НАЗВАЛ ГЛАВНЫЕ БОЛЕВЫЕ ТОЧКИ МИРОВОЙ ЭКОНОМИКИ The Tenge"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Ждать или покупать: цены на квартиры в 2026 году",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OV2gwcWFZVWxGX2FGV2ZhOGhDd1Y3bF9mczAxWktCcUJTMy1UeDFjQW9SZnZUSzJEVmUzSXhTeVRDRjh2TlRNbzNxeFNOUVJnYmtZNjVCQTZzMmxsa3doanF2aw?oc=5",
-      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "description": "Ждать или покупать: цены на квартиры в 2026 году Novostroy-M"
+      "description": "BIS назвал главные болевые точки мировой экономики The Tenge"
     },
     {
       "category": "Ипотека и регулирование",
@@ -338,12 +498,12 @@
       "description": "Застройщики не могут распродать почти треть нового жилья Московская перспектива"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "Стоит ли покупать квартиру в 2026 году: плюсы, минусы и главные риски",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FVzdzV3h1TTVvanJQWWNfTHgyVkg2UjMxbXFwbDNCSFA3RUFjcllLZUc3cy1KRWdZSnlkaXZjUUZqUXRjWkxpNHdWTklXQ2NBYVF1UHBXVjhJMWktMFZSd3pOSUFCQQ?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "category": "Недвижимость Москвы и МО",
+      "title": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в мае",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11MlJRZnRuZEwzSFkybzBsNWRYYkdTd3pHbFFEU2VPTkpRakt1S2VxQnlIaG1FOWV4Wl9qMTRsMVJPSHcySEF2c0NXTV96eWZManMxS2ZHNnpvNjkta0JjN3dSZEFBZ2QtUGpr?oc=5",
+      "published": "Mon, 01 Jun 2026 07:03:45 GMT",
       "source": "Novostroy-M",
-      "description": "Стоит ли покупать квартиру в 2026 году: плюсы, минусы и главные риски Novostroy-M"
+      "description": "Купить квартиру выгодно: старты продаж в новостройках Москвы и Московской области в мае Novostroy-M"
     },
     {
       "category": "Ипотека и регулирование",
@@ -378,70 +538,6 @@
       "description": "Банк России принял решение снизить ключевую ставку на 50 б.п., до 14,50% годовых Центральный Банк России"
     },
     {
-      "category": "Девелоперы и продажи",
-      "title": "Как найти квартиру с субсидированием ставки от застройщика на Домклик",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBXU0FOSmFPUFFJZ3RFZGhDOGhkalN1QW83YmQzRVBxeE44Qi1TTm1BOElUSzBYUWc2ZFRsempxaHVtQ1lESE04dXQtQXRCRVlmQ0ZOOHl6ZjFpYW9sb2RWSnBTQ0syOGFOMFhqRFJRaDVib21Sc2dZZWNoQ20tSkRrNXAwczc4UExmbUhueV9DNTJ5dlNJVVJQWFBqY3JESlo0RUJoNGQyUdIBrwFBVV95cUxQTzRUNHZna2VDaUlKMnJDTm54dElWLXZWbVd0ZkJDcHRIXzlPMGk3TnVHX05XNHFLWS1wc05na2x6RFdqek9WWUJjRm9GTW1MUk9CWERYSGNfaUhROU1wOEZQbjZCdWl0Q3dGdEtINTNJWlZpcUxhRlFqSUpxM25qV1hBMFhFMVN6STNTMmNXbGMxRVBxRTJVenowbzhrZVdKRUdhc1FhYlNEWm00M1FR?oc=5",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Как найти квартиру с субсидированием ставки от застройщика на Домклик Журнал Домклик"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Как получить скидку на квартиру от застройщика: советы",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWlLU0p3OF9nUG1qc3Y1dEoxQWVWNk1qM2ZiVng0RVVseVhBc1g5dlFxb0NoUnFsd0tWVGJEN2FOa28wOUJqYVVHcWdIV1dNMTVmUHpEWDZQRThjTDBHazVvbThYV2lJUkZ3VHZEN3VjNjhLQUVWVzBEUWdzcUlkTU1yXzRic053X3ZFaDlBSnVxeUFs0gGaAUFVX3lxTE1kN295Z2tHY3J3Z3ZVV1NRQnFRMm5VemxnY2htaUk1ZVpMUFBSOVBRanp6cWZWLTM2VDRHbFprYjI5RzcyTnZJeXktXzlyRWFNQ3FKd1BTQ2pIR0JMdGdiNW92YkJ5ak1oOHhLeko2YmpEMTZvUzlJaUZRN2pmRVMxNUFMV1pSZDlxeTNZeGdwcEFOQk1udFFITXc?oc=5",
-      "published": "Thu, 09 Apr 2026 07:00:00 GMT",
-      "source": "Журнал Домклик",
-      "description": "Как получить скидку на квартиру от застройщика: советы Журнал Домклик"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК Сердце Лыткарино",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DYzBtblVNc1hPSk0wMW1ZRzhVRjNSRDQwQldDSWEwRXNxNmpCQmxtbWJGa2drOXdkTjVyeUNCN3hUU0VJR1VFcm9mYTF3MFVzM0VXU3ZJV1NXUm5HUlQ4TVFUQ2ZGZw?oc=5",
-      "published": "Thu, 02 Apr 2026 20:37:27 GMT",
-      "source": "Домклик",
-      "description": "ЖК Сердце Лыткарино Домклик"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Ипотечное жилье при банкротстве: какие новшества заработают с 3 апреля 2026 года",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yYXVBcVNpTnZhMDJpVGd0WnhpdlJZeU5faU1Nc2xpbUQ0dXdxX3d1WWNHUE1qOFdqVUtYWHk0SDIxbmo3SjJZaUhJX05iNUs1bVJmRg?oc=5",
-      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Ипотечное жилье при банкротстве: какие новшества заработают с 3 апреля 2026 года Consultant.ru"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК «Апрелевка клаб»",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mNnhRTEdjaENMZWNncm9BNDVVckJtai1DbERwSjh4VEVkVE42LUVzRzFjVjg0TVFBb3N2b2xDWHlWekVTQU1IR0ZBTmJlcWJRa2M5MDlTYUtSNDcyVTFuUktpaWNtblU?oc=5",
-      "published": "Tue, 17 Mar 2026 11:04:32 GMT",
-      "source": "Домклик",
-      "description": "ЖК «Апрелевка клаб» Домклик"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "Кто в Москве строит больше всего: 7 крупнейших застройщиков",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6a09jTk80cENOQXdnZnYyVzJ2RFdTOWphaXZKbXVwQTNkNno2eFdBRHZIUXo2bmFBYkZMUzJDN1QzOS1xbFlJQmV5QmZ2Q0x0eW9kY2x3?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "source": "Т—Ж",
-      "description": "Кто в Москве строит больше всего: 7 крупнейших застройщиков Т—Ж"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "На рынок вернулась ипотека со ставкой 0,1% на новостройки. СИБДОМ",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQ2tLUjVGcFNydmk4OFRMdU9IR05BTGdValJ0TjUwWXgwdWswSHpVV21Da0N0Y0hZenJCZk5XRUp4V21iQmgteDhMamlNQ1pz?oc=5",
-      "published": "Sun, 01 Mar 2026 08:00:00 GMT",
-      "source": "СИБДОМ",
-      "description": "На рынок вернулась ипотека со ставкой 0,1% на новостройки. СИБДОМ СИБДОМ"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Почему застройщики предлагают нулевую ставку и выгодна ли она покупателю",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RdURHSVhibmF3c2k5WWw3UVpVbzhPVFhnaFIwRzdEYU5Xb05JUG02NVAtN3dqeUxSZS15c2w1T1ZRRjFET1Jrd2xB?oc=5",
-      "published": "Sun, 18 Jan 2026 08:00:00 GMT",
-      "source": "Т—Ж",
-      "description": "Почему застройщики предлагают нулевую ставку и выгодна ли она покупателю Т—Ж"
-    },
-    {
       "category": "Экономика России",
       "title": "В чем ошибся ЦБ: почему прогноз по экономике России на 2025 год не сбылся, отвечают эксперты",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yUmYzNHVNb2ZXNUNkc1RjWGg5ZklvZE9IUFoybzljNWZQUFZja0xQeDIyaXpVV2wyUEk4alZXLTRaQQ?oc=5",
@@ -458,108 +554,12 @@
       "description": "Минстрой пояснил порядок ограничения услуг ЖКХ при уведомлении потребителя-должника через интернет Consultant.ru"
     },
     {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК «Дубровицы Клаб»",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfRDFjakgxbDU1OElITDFyaThkTGpicXZWbDdpNjNiMENMQmZBWm92YmkyMXZDSkZxZ2FDM1UyUGJZWW5ZbXU5WXBhMjE0WUtBU2Z2OXI2UlN1dVlLcDk5RjFYVGxUczls?oc=5",
-      "published": "Tue, 02 Dec 2025 06:29:40 GMT",
-      "source": "Домклик",
-      "description": "ЖК «Дубровицы Клаб» Домклик"
-    },
-    {
       "category": "Ипотека и регулирование",
       "title": "Минфин сообщил о новшествах в семейной ипотеке",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVThLUWNkYUxSREhCZkY2eUc5alcxV1Q1SDZPS2VTZWRudGQtTHdGQnBNanJndVk5UG9lSVRzNS1CRk1KdktJMzZoYUVvbWpTTHNseQ?oc=5",
       "published": "Mon, 27 Oct 2025 07:00:00 GMT",
       "source": "Consultant.ru",
       "description": "Минфин сообщил о новшествах в семейной ипотеке Consultant.ru"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "2026 год будет тяжелым для рынка недвижимости России — эксперт – новости на сайте Novostroy-M.ru",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdWRzXzZ0ZGNPRGc0RXRrejRldFRnSTFFLUdFS0xoYzBKenJMVnp4MWV2aDZvZVl6Z25ueHh4MDZDb1hkMkZBUnkxMXdxcmV5QmJQbWR3R0pocy13LWtZVEwwREJiZEtsR1E?oc=5",
-      "published": "Sun, 05 Oct 2025 07:00:00 GMT",
-      "source": "Новострой-М",
-      "description": "2026 год будет тяжелым для рынка недвижимости России — эксперт – новости на сайте Novostroy-M.ru Новострой-М"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Неопределенность как новый тариф: цена для мировой экономики | Новости ООН",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJcGVXd2pRTkFWRzRMLXZ6WU1aZEd4elczVUhibGx1R09jU0dOOXZKdmhmTGI2MXpYak14SFYxZDRmSThGZHlyNUpvOUFyZDlRTlJrbEZFUQ?oc=5",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "source": "UN News",
-      "description": "Неопределенность как новый тариф: цена для мировой экономики | Новости ООН UN News"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Как купить квартиру в новостройке у застройщика в 2026 году",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90YXcxVkZ4QnU4RE1aWkdzaU1PbVNxV0llM3dlRW80d1RETmloY25zR19kdXZQT0xjb1UtZjZ5T2RTdEkwQjBFUER5cERhMnhwZWh0dDdWeXV1UEk?oc=5",
-      "published": "Fri, 11 Jul 2025 21:06:36 GMT",
-      "source": "Банки.ру",
-      "description": "Как купить квартиру в новостройке у застройщика в 2026 году Банки.ру"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "BIS ухудшил прогноз роста мировой экономики из-за возросшей неопределенности",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BVlF2QlBsaGtfclZKczJROFJCOC1YYzJxYWRqbkViVkhLZnZZTE5sV2ZLcFVYX3hSQ25BOXFvQndZTGFoY3dkUTZiYlplMlVtWWfSAUtBVV95cUxObjMza3IyRlZZZWRGbHpyYUNCLVlTZ29ybGpSUWdjSXFNMC1HX0NWenQ4MTFNQU9EUHoxWFoyMWpSVEdXUkcyMlpvakU?oc=5",
-      "published": "Mon, 30 Jun 2025 07:00:00 GMT",
-      "source": "Интерфакс",
-      "description": "BIS ухудшил прогноз роста мировой экономики из-за возросшей неопределенности Интерфакс"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК Левел Лесной",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Z3FBUjZiT0w1VVNFcFo3cE81Y3BJU0EtWThjRG9jSmNGNUlJem5BVDlSaWNvSWhhcmY0YWRDcGtGQUhEUWk1VzI0X3R0b1R6NGtZMm5mUUt6ODVZOHpN?oc=5",
-      "published": "Wed, 04 Jun 2025 02:11:46 GMT",
-      "source": "Домклик",
-      "description": "ЖК Левел Лесной Домклик"
-    },
-    {
-      "category": "Ипотека и регулирование",
-      "title": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DbUNoTTN2cklNa0JIMzBmNkJnYlJVd1p6cFhBNUJiUkR4RUd4V3lCNHJkV0J6Q28tYlFiWFRJYXh6N1doMmpkMkl1N2hiaGpibHM5Qw?oc=5",
-      "published": "Wed, 16 Apr 2025 07:00:00 GMT",
-      "source": "Consultant.ru",
-      "description": "Комиссии банков при выдаче льготных ипотек предложено полностью запретить – план ЦБ РФ Consultant.ru"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "Роскошь в полный рост: самые высокие квартиры в небоскребах Москвы",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HTGFRMkdUWE4talRBazN1Wk5jUGJ2dWlQX1dLUlpCV3Bta3ZEQzdGQXZMS1dDTjdUWDB3cVI5SGZqVU84eXJCalhiTGYzRnVScVI2bzh0V3hCcGJHTm1YMWtxenVnc1VyUGc?oc=5",
-      "published": "Tue, 08 Oct 2024 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "description": "Роскошь в полный рост: самые высокие квартиры в небоскребах Москвы Novostroy-M"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК Космический Квартал",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nZ0F6dVZBcHZSWE1nUFVYZUFIdWk4TUZocy1FYTJVdGx5eXpROHNRaUh0b0tWT2RtMF95eUVlMGh2T3NwcG9aNWx3ZVRRWXJMbEM0RjRkSmFuNTBwVERJcGhUVnlJMHRHbXc?oc=5",
-      "published": "Fri, 04 Oct 2024 02:00:06 GMT",
-      "source": "Домклик",
-      "description": "ЖК Космический Квартал Домклик"
-    },
-    {
-      "category": "Мировая экономика",
-      "title": "Как финансовые рынки реагируют на вероятность переизбрания Трампа",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGJTQTI3aE8yNE50bmRBdDV4clFESElCblVrVGE3MlZBZXhULVlxc3QzcUFzMjkycTN1WURPMV9Td2NkR3RkeUhtNUJ1aE9LeER2WHdVYnhKYlpPOW11VS0zN1dvTXdVWkN3ZUdsbHlJX2VDTmo4TVFIVWxzaENIa1Q2RlZaUFVWZEcyNGJjdlJST3QzOElkLUgwbEx0c2llaXRjUGJYWjdNZzA?oc=5",
-      "published": "Wed, 17 Jul 2024 07:00:00 GMT",
-      "source": "Econs.online",
-      "description": "Как финансовые рынки реагируют на вероятность переизбрания Трампа Econs.online"
-    },
-    {
-      "category": "Недвижимость Москвы и МО",
-      "title": "ЖК «Зелёный парк»: для всех, кто ищет доступное жилье с отделкой и московской пропиской",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jb3hCRVVGeDdQeGdUcVZValBfc2NiYlpQbXNLaGo5dHpjenlyQlBPdmx1UTl2UzdQLURtaHhtVmwydWRPbU1LQzE2WmtpVVRDYThFSGhHRFBGOTlYdzBvVHhKTGxWQQ?oc=5",
-      "published": "Tue, 26 Mar 2024 07:00:00 GMT",
-      "source": "Novostroy-M",
-      "description": "ЖК «Зелёный парк»: для всех, кто ищет доступное жилье с отделкой и московской пропиской Novostroy-M"
-    },
-    {
-      "category": "Девелоперы и продажи",
-      "title": "Как правило, ничего застройщики на самом деле не субсидируют",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13N0ZHeHZkakJCZExzRlJfLWlLbjA5aTRnWjRaYWwtTGpjVDE4UlhGbWRvOTNjZ1ZJS3RQd3NldmozbzI4X3pNaG1sZHU?oc=5",
-      "published": "Mon, 07 Aug 2023 07:00:00 GMT",
-      "source": "Центральный Банк России",
-      "description": "Как правило, ничего застройщики на самом деле не субсидируют Центральный Банк России"
     }
   ]
 }
